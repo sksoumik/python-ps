@@ -1,0 +1,2 @@
+This line is a test for writing on file
+This is the second line
