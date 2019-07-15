@@ -1,3 +1,6 @@
+"""
+Refer: https://www.codesdope.com/course/data-structures-heap/
+"""
 heap_size = 10
 
 # function to get a right child of a node
