@@ -1,6 +1,6 @@
 """
 https://www.hackerrank.com/challenges/py-set-intersection-operation
-Set-> intersection operation. Can also be expressed as & like A&B 
+Set-> intersection operation. Can also be expressed as & like A&B
 """
 
 n1 = int(input())
