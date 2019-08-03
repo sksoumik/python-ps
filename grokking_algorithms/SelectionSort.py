@@ -1,7 +1,7 @@
 def find_smallest_index(array):
     smallest_item = array[0]
     smallest_index = 0
-    for i in range(1, len(array)):
+    for i in range(len(array)):
         if array[i] < smallest_item:
             smallest_item = array[i]
             smallest_index = i
