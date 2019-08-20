@@ -5,12 +5,15 @@ class Node:
         self.right = None
         self.value = key
 
+
 """
 In Order traversal: 
 left subtree (recursion)
 root
 right subtree (recursion)
 """
+
+
 def in_order_traversal(root):
     if root:
         in_order_traversal(root.left)
@@ -24,6 +27,8 @@ root
 left subtree (recursion)
 right subtree (recursion)
 """
+
+
 def pre_order_traversal(root):
     if root:
         print(root.value, end=" ")
@@ -37,6 +42,8 @@ left subtree (recursion)
 right subtree (recursion)
 root
 """
+
+
 def post_order_traversal(root):
     if root:
         post_order_traversal(root.left)
@@ -44,9 +51,8 @@ def post_order_traversal(root):
         print(root.value, end=" ")
 
 
-
 # Driver Code
-root = Node(1 )
+root = Node(1)
 root.left = Node(2)
 root.right = Node(3)
 root.left.left = Node(4)
@@ -60,8 +66,6 @@ pre_order_traversal(root)
 
 print("\nPost order Traversal")
 post_order_traversal(root)
-
-
 
 """
 Ref: https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/
