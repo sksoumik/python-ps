@@ -14,9 +14,9 @@ def isPalindrome(string):
             break
 
     if (flag == 0):
-        print("This is a Palindrome String")
+        print("Palindrome")
     else:
-        print("This is Not a Palindrome String")
+        print("Not a Palindrome")
 
 
 # driver code
