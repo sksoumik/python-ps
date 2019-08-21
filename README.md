@@ -1,5 +1,5 @@
 # python-ps
-data structure, algorithm, statistics, OOP, hackerrank problems using python
+data structure, algorithm, statistics, OOP, hackerrank problems using python3
 
 
 | Data Structures  | 
@@ -13,6 +13,7 @@ data structure, algorithm, statistics, OOP, hackerrank problems using python
 |[tree_traversal - inorder, preorder, postorder](https://github.com/sksoumik/python-ps/blob/master/data_structures/tree_traversal.py)|
 |[balanced parentheses checking using queue](https://github.com/sksoumik/python-ps/blob/master/data_structures/balanced_parentheses_queue.py)|
 |[matrix multiplication](https://github.com/sksoumik/python-ps/blob/master/data_structures/MatrixMultiplication.py)|
+|[reverse a linked list](https://github.com/sksoumik/python-ps/blob/master/data_structures/reverse_linked_list.py)|
 ---
 
 | Statistics  | 
@@ -57,7 +58,6 @@ data structure, algorithm, statistics, OOP, hackerrank problems using python
 |[checking valid anagram](https://github.com/sksoumik/python-ps/blob/master/leetCode/ValidAnagram.py)|
 |[python filter](https://github.com/sksoumik/python-ps/blob/master/leetCode/Map.py)|
 |[checking if the string is palindrome](https://github.com/sksoumik/python-ps/blob/master/basic_programs/palindrome.py)|
-
 
 
 
