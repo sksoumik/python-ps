@@ -56,7 +56,7 @@ data structure, algorithm, statistics, OOP, hackerrank problems using python
 |[checking balanced parenthesis](https://github.com/sksoumik/python-ps/blob/master/basic_programs/balanced_parenthesis.py)|
 |[checking valid anagram](https://github.com/sksoumik/python-ps/blob/master/leetCode/ValidAnagram.py)|
 |[python filter](https://github.com/sksoumik/python-ps/blob/master/leetCode/Map.py)|
-
+|[checking if the string is palindrome](https://github.com/sksoumik/python-ps/blob/master/basic_programs/palindrome.py)|
 
 
 
