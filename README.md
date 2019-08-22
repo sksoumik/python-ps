@@ -14,6 +14,7 @@ data structure, algorithm, statistics, OOP, hackerrank problems using python3
 |[balanced parentheses checking using queue](https://github.com/sksoumik/python-ps/blob/master/data_structures/balanced_parentheses_queue.py)|
 |[matrix multiplication](https://github.com/sksoumik/python-ps/blob/master/data_structures/MatrixMultiplication.py)|
 |[reverse a linked list](https://github.com/sksoumik/python-ps/blob/master/data_structures/reverse_linked_list.py)|
+|[bfs graph traversal](https://github.com/sksoumik/python-ps/blob/master/data_structures/bfs_graph_traversal.py)|
 ---
 
 | Statistics  | 

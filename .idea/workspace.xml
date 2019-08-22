@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="249916b1-f9cf-4872-9a7a-e86d6e374f78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data_structures/bfs_graph_traversal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data_structures/reverse_linked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structures/reverse_linked_list.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,14 +87,14 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="5" />
-          <entry key="md" value="3" />
+          <entry key="md" value="4" />
           <entry key="py" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="5" />
-          <entry key="Markdown" value="3" />
+          <entry key="Markdown" value="4" />
           <entry key="Python" value="55" />
         </counts>
       </usages-collector>
@@ -102,16 +102,16 @@
         <counts>
           <entry key="Python Console" value="15" />
           <entry key="dummy" value="37" />
-          <entry key="md" value="97" />
-          <entry key="py" value="16614" />
-          <entry key="txt" value="572" />
+          <entry key="md" value="123" />
+          <entry key="py" value="16630" />
+          <entry key="txt" value="585" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="97" />
-          <entry key="PLAIN_TEXT" value="609" />
-          <entry key="Python" value="16629" />
+          <entry key="Markdown" value="123" />
+          <entry key="PLAIN_TEXT" value="622" />
+          <entry key="Python" value="16645" />
         </counts>
       </usages-collector>
     </session>
@@ -131,20 +131,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_structures/bfs_graph_traversal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="20" column="17" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="17" />
+            <state relative-caret-position="512">
+              <caret line="54" column="75" selection-start-line="54" selection-start-column="75" selection-end-line="54" selection-end-column="75" />
               <folding>
-                <marker date="1566479795993" expanded="true" signature="77:83" ph="..." />
-                <marker date="1566479795993" expanded="true" signature="227:230" ph="..." />
-                <marker date="1566479795993" expanded="true" signature="227:232" ph="..." />
-                <marker date="1566479795993" expanded="true" signature="227:237" ph="..." />
-                <marker date="1566479795993" expanded="true" signature="227:238" ph="..." />
-                <marker date="1566479795993" expanded="true" signature="227:239" ph="..." />
-                <marker date="1566479795993" expanded="true" signature="227:241" ph="..." />
+                <marker date="1566480101909" expanded="true" signature="79:85" ph="..." />
+                <marker date="1566480101909" expanded="true" signature="229:232" ph="..." />
+                <marker date="1566480101909" expanded="true" signature="229:234" ph="..." />
+                <marker date="1566480101909" expanded="true" signature="229:239" ph="..." />
+                <marker date="1566480101909" expanded="true" signature="229:240" ph="..." />
+                <marker date="1566480101909" expanded="true" signature="229:241" ph="..." />
+                <marker date="1566480101909" expanded="true" signature="229:243" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="480">
+                <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -228,9 +240,9 @@
         <option value="$PROJECT_DIR$/data_structures/tower_of_hanoi_recursion.py" />
         <option value="$PROJECT_DIR$/basic_programs/palindrome.py" />
         <option value="$PROJECT_DIR$/leetCode/ValidAnagram.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/data_structures/reverse_linked_list.py" />
         <option value="$PROJECT_DIR$/data_structures/bfs_graph_traversal.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -661,14 +673,21 @@
       <option name="project" value="LOCAL" />
       <updated>1566388725819</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="bfs traversal">
+      <created>1566480123479</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1566480123479</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17549168" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17549168" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -699,7 +718,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Hacker Rank Python - ifElse" />
     <MESSAGE value="Hacker Rank Python - division" />
     <MESSAGE value="Hacker Rank Python - Function" />
     <MESSAGE value="Hacker Rank Python - set" />
@@ -724,7 +742,8 @@
     <MESSAGE value="update" />
     <MESSAGE value="reverse linked list" />
     <MESSAGE value="md updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="md updated" />
+    <MESSAGE value="bfs traversal" />
+    <option name="LAST_COMMIT_MESSAGE" value="bfs traversal" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sorting_algorithms/quick_sort.py">
@@ -1005,16 +1024,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data_structures/reverse_linked_list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1230">
@@ -1028,17 +1037,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data_structures/bfs_graph_traversal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="17" />
+        <state relative-caret-position="512">
+          <caret line="54" column="75" selection-start-line="54" selection-start-column="75" selection-end-line="54" selection-end-column="75" />
           <folding>
-            <marker date="1566479795993" expanded="true" signature="77:83" ph="..." />
-            <marker date="1566479795993" expanded="true" signature="227:230" ph="..." />
-            <marker date="1566479795993" expanded="true" signature="227:232" ph="..." />
-            <marker date="1566479795993" expanded="true" signature="227:237" ph="..." />
-            <marker date="1566479795993" expanded="true" signature="227:238" ph="..." />
-            <marker date="1566479795993" expanded="true" signature="227:239" ph="..." />
-            <marker date="1566479795993" expanded="true" signature="227:241" ph="..." />
+            <marker date="1566480101909" expanded="true" signature="79:85" ph="..." />
+            <marker date="1566480101909" expanded="true" signature="229:232" ph="..." />
+            <marker date="1566480101909" expanded="true" signature="229:234" ph="..." />
+            <marker date="1566480101909" expanded="true" signature="229:239" ph="..." />
+            <marker date="1566480101909" expanded="true" signature="229:240" ph="..." />
+            <marker date="1566480101909" expanded="true" signature="229:241" ph="..." />
+            <marker date="1566480101909" expanded="true" signature="229:243" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="480">
+            <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

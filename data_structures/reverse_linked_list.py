@@ -18,17 +18,16 @@ class LinkedList:
     def __init__(self):  # initialize head
         self.head = None
 
-    def reverse_linked_list(self):
+    def reverse_linked_list(self):   # previous, current, next
         previous = None
         current = self.head
 
-        while(current is not None):
+        while (current is not None):
             next = current.next
             current.next = previous
             previous = current
             current = next
         self.head = previous
-
 
     def push_at_start(self, item):
         new_node = Node(item)
@@ -37,10 +36,9 @@ class LinkedList:
 
     def print_linked_list(self):
         temp = self.head
-        while(temp):
+        while (temp):
             print(temp.data, end=" ")
             temp = temp.next
-
 
 
 # Driver code
