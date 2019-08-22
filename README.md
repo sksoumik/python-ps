@@ -59,6 +59,9 @@ data structure, algorithm, statistics, OOP, hackerrank problems using python3
 |[checking valid anagram](https://github.com/sksoumik/python-ps/blob/master/leetCode/ValidAnagram.py)|
 |[python filter](https://github.com/sksoumik/python-ps/blob/master/leetCode/Map.py)|
 |[checking if the string is palindrome](https://github.com/sksoumik/python-ps/blob/master/basic_programs/palindrome.py)|
+|[check if a number is prime or not](https://github.com/sksoumik/python-ps/blob/master/basic_programs/check_prime.py)|
+|[all prime numbers for a given interval](https://github.com/sksoumik/python-ps/blob/master/basic_programs/prime_number_for_a_given_interval.py)|
+|[remove duplicate letters from a word](https://github.com/sksoumik/python-ps/blob/master/basic_programs/remove_duplicates_from_word.py)|
 
 
 
