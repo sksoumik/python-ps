@@ -28,7 +28,7 @@ data structure, algorithm, statistics, OOP, hackerrank problems using python3
 
 | Sorting Algorithms  | 
 | ------------- | 
-|[merge sort](https://github.com/sksoumik/python-ps/blob/master/sorting_algorithms/MergeSort.py)|
+|[merge sort](https://github.com/sksoumik/Algorithm-Design-and-Analysis/blob/master/Divide%20and%20Conquer/Merge%20Sort.py)|
 |[quick sort](https://github.com/sksoumik/python-ps/blob/master/sorting_algorithms/quick_sort.py)|
 |[heap sort](https://github.com/sksoumik/python-ps/blob/master/sorting_algorithms/heap_sort.py)|
 |[insertion sort](https://github.com/sksoumik/Algorithm-Design-and-Analysis/blob/master/Sorting%20Algorithms/InsertionSort.py)|
