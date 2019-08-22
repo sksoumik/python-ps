@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="249916b1-f9cf-4872-9a7a-e86d6e374f78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/heap_sort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grokking_algorithms/BinarySearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/BinarySearch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grokking_algorithms/SelectionSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/SelectionSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grokking_algorithms/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter notebooks/basic_problem_solving.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter notebooks/basic_problem_solving.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter notebooks/python_interview_questions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter notebooks/python_interview_questions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter notebooks/recursion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter notebooks/recursion.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,14 +90,14 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="9" />
-          <entry key="md" value="5" />
+          <entry key="md" value="6" />
           <entry key="py" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="9" />
-          <entry key="Markdown" value="5" />
+          <entry key="Markdown" value="6" />
           <entry key="Python" value="59" />
         </counts>
       </usages-collector>
@@ -112,15 +105,15 @@
         <counts>
           <entry key="Python Console" value="15" />
           <entry key="dummy" value="41" />
-          <entry key="md" value="187" />
+          <entry key="md" value="188" />
           <entry key="py" value="17223" />
-          <entry key="txt" value="680" />
+          <entry key="txt" value="689" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="187" />
-          <entry key="PLAIN_TEXT" value="721" />
+          <entry key="Markdown" value="188" />
+          <entry key="PLAIN_TEXT" value="730" />
           <entry key="Python" value="17238" />
         </counts>
       </usages-collector>
@@ -128,11 +121,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/heap_sort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+            <state relative-caret-position="482">
+              <caret line="33" column="33" lean-forward="true" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="766">
+                <caret line="52" selection-start-line="52" selection-end-line="52" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -217,8 +222,8 @@
         <option value="$PROJECT_DIR$/basic_programs/prime_number_for_a_given_interval.py" />
         <option value="$PROJECT_DIR$/basic_programs/remove_duplicates_from_string.py" />
         <option value="$PROJECT_DIR$/basic_programs/remove_duplicates_from_word.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/algorithms/heap_sort.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -683,14 +688,21 @@
       <option name="project" value="LOCAL" />
       <updated>1566491083872</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="heap sort">
+      <created>1566512488872</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1566512488872</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18003026" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18003026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -701,7 +713,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32952183" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32923076" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32843652" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -721,7 +733,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DSA - Heapify - ref added" />
     <MESSAGE value="Sorting - Heap Sort" />
     <MESSAGE value="OOP in python - class" />
     <MESSAGE value="OOP in python - modify object" />
@@ -746,7 +757,8 @@
     <MESSAGE value="print all prime numbers for a given interval" />
     <MESSAGE value="remove duplicates from word" />
     <MESSAGE value="md update" />
-    <option name="LAST_COMMIT_MESSAGE" value="md update" />
+    <MESSAGE value="heap sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="heap sort" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sorting_algorithms/heap_sort.py">
@@ -1008,16 +1020,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1920">
-            <caret line="64" selection-start-line="64" selection-end-line="64" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jupyter notebooks/recursion.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -1055,8 +1057,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/heap_sort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        <state relative-caret-position="482">
+          <caret line="33" column="33" lean-forward="true" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="766">
+            <caret line="52" selection-start-line="52" selection-end-line="52" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
