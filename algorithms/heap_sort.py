@@ -43,4 +43,7 @@ n = len(arr)
 print ("Sorted array is")
 for i in range(n):
 	print (arr[i], end=" "),
-# This code is contributed by Mohit Kumra
+
+"""
+ref: https://www.geeksforgeeks.org/heap-sort/
+"""
