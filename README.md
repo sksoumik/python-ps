@@ -33,6 +33,7 @@ data structure, algorithm, statistics, OOP, hackerrank problems using python3
 |[heap sort](https://github.com/sksoumik/python-ps/blob/master/algorithms/heap_sort.py)|
 |[insertion sort](https://github.com/sksoumik/Algorithm-Design-and-Analysis/blob/master/Sorting%20Algorithms/InsertionSort.py)|
 |[selection sort](https://github.com/sksoumik/python-ps/blob/master/grokking_algorithms/SelectionSort.py)|
+|[bubble sort](https://github.com/sksoumik/python-ps/blob/master/algorithms/bubble_sort.py)|
 ---
 
 | Searching Algorithms  | 
