@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="249916b1-f9cf-4872-9a7a-e86d6e374f78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/basic_programs/remove_duplicates_from_word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/heap_sort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grokking_algorithms/BinarySearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/BinarySearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grokking_algorithms/SelectionSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/SelectionSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grokking_algorithms/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter notebooks/basic_problem_solving.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter notebooks/basic_problem_solving.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter notebooks/python_interview_questions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter notebooks/python_interview_questions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter notebooks/recursion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter notebooks/recursion.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,18 +62,19 @@
     <SUITE FILE_PATH="coverage/python$SelfKeyword.coverage" NAME="SelfKeyword Coverage Results" MODIFIED="1563619659679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop_in_python" />
     <SUITE FILE_PATH="coverage/python$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1562779730638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorting_algorithms" />
     <SUITE FILE_PATH="coverage/python$Loops.coverage" NAME="Loops Coverage Results" MODIFIED="1563169540116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_python" />
-    <SUITE FILE_PATH="coverage/python$heap_sort.coverage" NAME="heap_sort Coverage Results" MODIFIED="1563187119559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorting_algorithms" />
+    <SUITE FILE_PATH="coverage/python$heap_sort.coverage" NAME="heap_sort Coverage Results" MODIFIED="1566512341869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-592689814">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="28" />
+          <entry key="project.closed" value="29" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="2" />
           <entry key="project.open.time.28" value="3" />
@@ -84,69 +91,48 @@
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="30" />
+          <entry key="project.opened" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ipynb" value="5" />
-          <entry key="md" value="4" />
-          <entry key="py" value="58" />
+          <entry key="ipynb" value="9" />
+          <entry key="md" value="5" />
+          <entry key="py" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="5" />
-          <entry key="Markdown" value="4" />
-          <entry key="Python" value="58" />
+          <entry key="IPNB" value="9" />
+          <entry key="Markdown" value="5" />
+          <entry key="Python" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="15" />
           <entry key="dummy" value="41" />
-          <entry key="md" value="123" />
-          <entry key="py" value="17216" />
-          <entry key="txt" value="643" />
+          <entry key="md" value="187" />
+          <entry key="py" value="17223" />
+          <entry key="txt" value="680" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="123" />
-          <entry key="PLAIN_TEXT" value="684" />
-          <entry key="Python" value="17231" />
+          <entry key="Markdown" value="187" />
+          <entry key="PLAIN_TEXT" value="721" />
+          <entry key="Python" value="17238" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_programs/prime_number_for_a_given_interval.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-              <folding>
-                <marker date="1566485423559" expanded="true" signature="99:301" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basic_programs/remove_duplicates_from_word.py">
+        <entry file="file://$PROJECT_DIR$/algorithms/heap_sort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_programs/check_prime.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="6" selection-end-column="46" />
+            <state relative-caret-position="302">
+              <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -182,7 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data_structures/heapify_built_in.py" />
         <option value="$PROJECT_DIR$/data_structures/Heapify.py" />
         <option value="$PROJECT_DIR$/sorting_algorithms/heap_sort.py" />
         <option value="$PROJECT_DIR$/data_structures/testfile.py" />
@@ -228,11 +213,12 @@
         <option value="$PROJECT_DIR$/leetCode/ValidAnagram.py" />
         <option value="$PROJECT_DIR$/data_structures/reverse_linked_list.py" />
         <option value="$PROJECT_DIR$/data_structures/bfs_graph_traversal.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/basic_programs/check_prime.py" />
         <option value="$PROJECT_DIR$/basic_programs/prime_number_for_a_given_interval.py" />
         <option value="$PROJECT_DIR$/basic_programs/remove_duplicates_from_string.py" />
         <option value="$PROJECT_DIR$/basic_programs/remove_duplicates_from_word.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/algorithms/heap_sort.py" />
       </list>
     </option>
   </component>
@@ -260,21 +246,6 @@
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="basic_programs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="hacker_rank_python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -300,29 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.remove_duplicates_from_word">
-    <configuration name="bfs_graph_traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structures" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structures/bfs_graph_traversal.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.heap_sort">
     <configuration name="check_prime" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -337,6 +286,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_programs/check_prime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="heap_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/heap_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -412,19 +383,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.bfs_graph_traversal" />
       <item itemvalue="Python.check_prime" />
       <item itemvalue="Python.prime_number_for_a_given_interval" />
       <item itemvalue="Python.remove_duplicates_from_string" />
       <item itemvalue="Python.remove_duplicates_from_word" />
+      <item itemvalue="Python.heap_sort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.heap_sort" />
         <item itemvalue="Python.remove_duplicates_from_word" />
         <item itemvalue="Python.remove_duplicates_from_string" />
         <item itemvalue="Python.prime_number_for_a_given_interval" />
         <item itemvalue="Python.check_prime" />
-        <item itemvalue="Python.bfs_graph_traversal" />
       </list>
     </recent_temporary>
   </component>
@@ -698,14 +669,28 @@
       <option name="project" value="LOCAL" />
       <updated>1566485435053</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="remove duplicates from word">
+      <created>1566490704796</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1566490704796</updated>
+    </task>
+    <task id="LOCAL-00039" summary="md update">
+      <created>1566491083872</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1566491083872</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17549168" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18003026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -736,8 +721,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Hacker Rank Python - set" />
-    <MESSAGE value="DSA - Heapify" />
     <MESSAGE value="DSA - Heapify - ref added" />
     <MESSAGE value="Sorting - Heap Sort" />
     <MESSAGE value="OOP in python - class" />
@@ -761,38 +744,11 @@
     <MESSAGE value="bfs traversal" />
     <MESSAGE value="check prime" />
     <MESSAGE value="print all prime numbers for a given interval" />
-    <option name="LAST_COMMIT_MESSAGE" value="print all prime numbers for a given interval" />
+    <MESSAGE value="remove duplicates from word" />
+    <MESSAGE value="md update" />
+    <option name="LAST_COMMIT_MESSAGE" value="md update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hacker_rank_python/Arithmetic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hacker_rank_python/Loops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hacker_rank_python/WriteFunction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hacker_rank_python/setIntersection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structures/heapify_built_in.py" />
     <entry file="file://$PROJECT_DIR$/sorting_algorithms/heap_sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1530">
@@ -854,14 +810,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grokking_algorithms/BinarySearch.py">
+    <entry file="file://$PROJECT_DIR$/algorithms/BinarySearch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grokking_algorithms/SelectionSort.py">
+    <entry file="file://$PROJECT_DIR$/algorithms/SelectionSort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
@@ -1025,20 +981,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1230">
           <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <marker date="1566402863274" expanded="true" signature="178:183" ph="..." />
-            <marker date="1566402863274" expanded="true" signature="278:934" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1046,29 +988,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
           <caret line="54" column="75" selection-start-line="54" selection-start-column="75" selection-end-line="54" selection-end-column="75" />
-          <folding>
-            <marker date="1566480101909" expanded="true" signature="79:85" ph="..." />
-            <marker date="1566480101909" expanded="true" signature="229:232" ph="..." />
-            <marker date="1566480101909" expanded="true" signature="229:234" ph="..." />
-            <marker date="1566480101909" expanded="true" signature="229:239" ph="..." />
-            <marker date="1566480101909" expanded="true" signature="229:240" ph="..." />
-            <marker date="1566480101909" expanded="true" signature="229:241" ph="..." />
-            <marker date="1566480101909" expanded="true" signature="229:243" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_programs/check_prime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="6" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/basic_programs/prime_number_for_a_given_interval.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        <state relative-caret-position="240">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
           <folding>
             <marker date="1566485423559" expanded="true" signature="99:301" ph="..." />
           </folding>
@@ -1077,8 +1003,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/basic_programs/remove_duplicates_from_word.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="300">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1920">
+            <caret line="64" selection-start-line="64" selection-end-line="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jupyter notebooks/recursion.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jupyter notebooks/python_interview_questions.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_programs/check_prime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jupyter notebooks/basic_problem_solving.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jupyter notebooks/recursive_functions.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/heap_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
         </state>
       </provider>
     </entry>
