@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="249916b1-f9cf-4872-9a7a-e86d6e374f78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/bubble_sort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacker_rank_problem_solving/ArraysDS.py" beforeDir="false" afterPath="$PROJECT_DIR$/hacker_rank_problem_solving/ArraysDS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting_algorithms/heap_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/sorting_algorithms/heap_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting_algorithms/quick_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/sorting_algorithms/quick_sort.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +30,7 @@
     <SUITE FILE_PATH="coverage/python$setIntersection.coverage" NAME="setIntersection Coverage Results" MODIFIED="1563173946476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_python" />
     <SUITE FILE_PATH="coverage/python$weighted_mean.coverage" NAME="weighted_mean Coverage Results" MODIFIED="1564798769679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_10_days_of_statistics" />
     <SUITE FILE_PATH="coverage/python$stack_implementation_array.coverage" NAME="stack_implementation_array Coverage Results" MODIFIED="1566321452145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structures" />
-    <SUITE FILE_PATH="coverage/python$ArraysDS.coverage" NAME="ArraysDS Coverage Results" MODIFIED="1561566545903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_problem_solving" />
+    <SUITE FILE_PATH="coverage/python$ArraysDS.coverage" NAME="ArraysDS Coverage Results" MODIFIED="1566561671549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_problem_solving" />
     <SUITE FILE_PATH="coverage/python$reverse_linked_list.coverage" NAME="reverse_linked_list Coverage Results" MODIFIED="1566388414870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structures" />
     <SUITE FILE_PATH="coverage/python$standard_deviation.coverage" NAME="standard_deviation Coverage Results" MODIFIED="1564799702730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_10_days_of_statistics" />
     <SUITE FILE_PATH="coverage/python$SelectionSort.coverage" NAME="SelectionSort Coverage Results" MODIFIED="1564110746904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grokking_algorithms" />
@@ -54,8 +56,8 @@
     <SUITE FILE_PATH="coverage/python$factor.coverage" NAME="factor Coverage Results" MODIFIED="1565508074617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic_programs" />
     <SUITE FILE_PATH="coverage/python$Dog.coverage" NAME="Dog Coverage Results" MODIFIED="1563434763232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop_in_python" />
     <SUITE FILE_PATH="coverage/python$SelfKeyword.coverage" NAME="SelfKeyword Coverage Results" MODIFIED="1563619659679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop_in_python" />
-    <SUITE FILE_PATH="coverage/python$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1562779730638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorting_algorithms" />
     <SUITE FILE_PATH="coverage/python$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1566513429260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
+    <SUITE FILE_PATH="coverage/python$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1566567523227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorting_algorithms" />
     <SUITE FILE_PATH="coverage/python$Loops.coverage" NAME="Loops Coverage Results" MODIFIED="1563169540116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_python" />
     <SUITE FILE_PATH="coverage/python$heap_sort.coverage" NAME="heap_sort Coverage Results" MODIFIED="1566512341869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
   </component>
@@ -93,30 +95,30 @@
         <counts>
           <entry key="ipynb" value="9" />
           <entry key="md" value="6" />
-          <entry key="py" value="60" />
+          <entry key="py" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="9" />
           <entry key="Markdown" value="6" />
-          <entry key="Python" value="60" />
+          <entry key="Python" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="15" />
           <entry key="dummy" value="41" />
-          <entry key="md" value="188" />
-          <entry key="py" value="17305" />
-          <entry key="txt" value="699" />
+          <entry key="md" value="207" />
+          <entry key="py" value="17382" />
+          <entry key="txt" value="719" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="188" />
-          <entry key="PLAIN_TEXT" value="740" />
-          <entry key="Python" value="17320" />
+          <entry key="Markdown" value="207" />
+          <entry key="PLAIN_TEXT" value="760" />
+          <entry key="Python" value="17397" />
         </counts>
       </usages-collector>
     </session>
@@ -126,13 +128,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/heap_sort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            <state relative-caret-position="300">
+              <caret line="19" column="15" lean-forward="true" selection-end-line="52" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/bubble_sort.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="494">
@@ -142,13 +144,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="166">
-                <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/hacker_rank_problem_solving/ArraysDS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sorting_algorithms/heap_sort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sorting_algorithms/quick_sort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+              <folding>
+                <marker date="1566567351661" expanded="true" signature="20:25" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -169,6 +189,7 @@
       <find>middle_item</find>
       <find>X_array</find>
       <find>fizzbuzz</find>
+      <find>i</find>
     </findStrings>
     <replaceStrings>
       <replace>middle_item</replace>
@@ -176,6 +197,7 @@
       <replace>mid_item</replace>
       <replace>full_array</replace>
       <replace>num</replace>
+      <replace>root</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -184,9 +206,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sorting_algorithms/heap_sort.py" />
-        <option value="$PROJECT_DIR$/data_structures/testfile.py" />
-        <option value="$PROJECT_DIR$/sorting_algorithms/MergeSort.py" />
         <option value="$PROJECT_DIR$/oop_in_python/ClassExample.py" />
         <option value="$PROJECT_DIR$/oop_in_python/ModifyingAttribute.py" />
         <option value="$PROJECT_DIR$/oop_in_python/Inheritance.py" />
@@ -232,9 +251,12 @@
         <option value="$PROJECT_DIR$/basic_programs/prime_number_for_a_given_interval.py" />
         <option value="$PROJECT_DIR$/basic_programs/remove_duplicates_from_string.py" />
         <option value="$PROJECT_DIR$/basic_programs/remove_duplicates_from_word.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/algorithms/heap_sort.py" />
         <option value="$PROJECT_DIR$/algorithms/bubble_sort.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/hacker_rank_problem_solving/ArraysDS.py" />
+        <option value="$PROJECT_DIR$/sorting_algorithms/heap_sort.py" />
+        <option value="$PROJECT_DIR$/sorting_algorithms/quick_sort.py" />
       </list>
     </option>
   </component>
@@ -267,6 +289,16 @@
               <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="hacker_rank_problem_solving" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="sorting_algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -292,7 +324,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bubble_sort">
+  <component name="RunManager" selected="Python.quick_sort">
+    <configuration name="ArraysDS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hacker_rank_problem_solving" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hacker_rank_problem_solving/ArraysDS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="bubble_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -337,7 +391,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prime_number_for_a_given_interval" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="quick_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -345,34 +399,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sorting_algorithms" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_programs/prime_number_for_a_given_interval.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="remove_duplicates_from_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_programs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\sadma\python\basic_programs\remove_duplicates_from_word.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sorting_algorithms/quick_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -404,19 +436,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.prime_number_for_a_given_interval" />
-      <item itemvalue="Python.remove_duplicates_from_string" />
       <item itemvalue="Python.remove_duplicates_from_word" />
       <item itemvalue="Python.heap_sort" />
       <item itemvalue="Python.bubble_sort" />
+      <item itemvalue="Python.ArraysDS" />
+      <item itemvalue="Python.quick_sort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.quick_sort" />
+        <item itemvalue="Python.ArraysDS" />
         <item itemvalue="Python.bubble_sort" />
         <item itemvalue="Python.heap_sort" />
         <item itemvalue="Python.remove_duplicates_from_word" />
-        <item itemvalue="Python.remove_duplicates_from_string" />
-        <item itemvalue="Python.prime_number_for_a_given_interval" />
       </list>
     </recent_temporary>
   </component>
@@ -732,19 +764,33 @@
       <option name="project" value="LOCAL" />
       <updated>1566513305341</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="bubble sort">
+      <created>1566515758102</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1566515758102</updated>
+    </task>
+    <task id="LOCAL-00045" summary="md update">
+      <created>1566515872661</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1566515872661</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-156" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12686567" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12686567" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.46461537" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46361747" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -770,7 +816,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="OOP in python - modify object" />
     <MESSAGE value="OOP in python - inheritance" />
     <MESSAGE value="Linked List - Singly" />
     <MESSAGE value="Binary Search - Grokky algorithm" />
@@ -791,28 +836,14 @@
     <MESSAGE value="check prime" />
     <MESSAGE value="print all prime numbers for a given interval" />
     <MESSAGE value="remove duplicates from word" />
-    <MESSAGE value="md update" />
     <MESSAGE value="heap sort" />
     <MESSAGE value="heap sort md update" />
     <MESSAGE value="heap sort md" />
-    <option name="LAST_COMMIT_MESSAGE" value="heap sort md" />
+    <MESSAGE value="bubble sort" />
+    <MESSAGE value="md update" />
+    <option name="LAST_COMMIT_MESSAGE" value="md update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sorting_algorithms/MergeSort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oop_in_python/ModifyingAttribute.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oop_in_python/main.py" />
     <entry file="file://$PROJECT_DIR$/oop_in_python/RussellTerrier.py" />
     <entry file="file://$PROJECT_DIR$/oop_in_python/BullDog.py" />
     <entry file="file://$PROJECT_DIR$/built_in_python_functions.ipynb" />
@@ -1030,6 +1061,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
           <caret line="54" column="75" selection-start-line="54" selection-start-column="75" selection-end-line="54" selection-end-column="75" />
+          <folding>
+            <marker date="1566480101909" expanded="true" signature="79:85" ph="..." />
+            <marker date="1566480101909" expanded="true" signature="229:232" ph="..." />
+            <marker date="1566480101909" expanded="true" signature="229:234" ph="..." />
+            <marker date="1566480101909" expanded="true" signature="229:239" ph="..." />
+            <marker date="1566480101909" expanded="true" signature="229:240" ph="..." />
+            <marker date="1566480101909" expanded="true" signature="229:241" ph="..." />
+            <marker date="1566480101909" expanded="true" signature="229:243" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1088,17 +1128,10 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="166">
-            <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <first_editor relative-caret-position="256">
+            <caret line="35" column="92" lean-forward="true" selection-start-line="35" selection-start-column="92" selection-end-line="35" selection-end-column="92" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/heap_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1106,6 +1139,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hacker_rank_problem_solving/ArraysDS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/heap_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" column="15" lean-forward="true" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorting_algorithms/heap_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorting_algorithms/quick_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <marker date="1566567351661" expanded="true" signature="20:25" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

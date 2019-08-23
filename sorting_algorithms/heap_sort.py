@@ -1,62 +1,52 @@
-heap_size = 10
+# Python program for implementation of heap Sort
+# To heapify subtree rooted at index i.
+# n is size of heap
+# time O(n log n)
+# space O(1)
 
-# function to get a right child of a node
-def get_right_child(A, index):
-    if 2*index+1 < len(A) and index >=1:
-        return 2*index+1
-    return -1
+def heapify(arr, n, i):
+	largest = i # Initialize largest as root
+	l = 2 * i + 1	 # left = 2*i + 1
+	r = 2 * i + 2	 # right = 2*i + 2
 
-# function to get the left child of a node
-def get_left_child(A, index):
-    if 2*index < len(A) and index >=1:
-        return 2*index
-    return -1
+	# See if left child of root exists and is
+	# greater than root
+	if l < n and arr[i] < arr[l]:
+		largest = l
 
-# function to get the parent of a node
-def get_parent(A, index):
-    if index >1 and index < len(A):
-        return index//2
-    return -1
+	# See if right child of root exists and is
+	# greater than root
+	if r < n and arr[largest] < arr[r]:
+		largest = r
 
-def max_heapify(A, index):
-    left_child_index = get_left_child(A, index)
-    right_child_index = get_right_child(A, index)
+	# Change root, if needed
+	if largest != i:
+		arr[i],arr[largest] = arr[largest],arr[i] # swap
 
-    # finding the largest among left child, right child and current index
-    largest = index
+		# Heapify the root.
+		heapify(arr, n, largest)
 
-    if left_child_index <= heap_size and left_child_index >0:
-        if A[left_child_index] > A[largest]:
-            largest = left_child_index
+# The main function to sort an array of given size
+def heapSort(arr):
+	n = len(arr)
 
-    if right_child_index <= heap_size and right_child_index >0:
-        if A[right_child_index] > A[largest]:
-            largest = right_child_index
+	# Build a maxheap.
+	for i in range(n, -1, -1):
+		heapify(arr, n, i)
 
-    # largest is not the node, node is not a heap
-    if largest != index:
-        A[index], A[largest] = A[largest], A[index]
-        max_heapify(A, largest)
+	# One by one extract elements
+	for i in range(n-1, 0, -1):
+		arr[i], arr[0] = arr[0], arr[i] # swap
+		heapify(arr, i, 0)
 
-def build_max_heap(A):
-    for i in range(heap_size//2, 0, -1):
-        max_heapify(A,i)
+# Driver code to test above
+arr = [ 12, 11, 13, 5, 6, 7]
+heapSort(arr)
+n = len(arr)
+print ("Sorted array is")
+for i in range(n):
+	print (arr[i], end=" "),
 
-
-def heap_sort(a):
-    global heap_size
-    while heap_size > 0:
-        a[1], a[heap_size] = a[heap_size], a[1] # swap
-        heap_size = heap_size - 1
-        max_heapify(a, 1) # apply max_heapify at root
-
-
-if __name__ == '__main__':
-    A = [0, 15, 20, 7, 9, 5, 8, 6, 10, 2, 1]
-    print("Before Sorting\n", A)
-    build_max_heap(A)
-    heap_sort(A)
-
-    print("After Heap Sort: \n",A[1:11])
-
-
+"""
+ref: https://www.geeksforgeeks.org/heap-sort/
+"""
