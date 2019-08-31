@@ -42,6 +42,12 @@ data structure, algorithm, statistics, OOP, hackerrank problems using python3
 |[binary search](https://github.com/sksoumik/python-ps/blob/master/grokking_algorithms/BinarySearch.py)|
 ---
 
+| CPU Scheduling Algorithms  | 
+| ------------- | 
+|[first come first serve - fcfs](https://github.com/sksoumik/python-ps/blob/master/os_algorithm/fcfs_cpu_scheduling.py)|
+
+---
+
 | Algorithms  | 
 | ------------- | 
 |[knapsack](https://github.com/sksoumik/Algorithm-Design-and-Analysis/blob/master/Dynamic%20Programming/Knapsack.py)|
