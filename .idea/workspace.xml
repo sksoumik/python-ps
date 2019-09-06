@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="249916b1-f9cf-4872-9a7a-e86d6e374f78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/oop_in_python/classmethods_staticmethods.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,7 +86,7 @@
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.26" value="1" />
@@ -107,7 +106,7 @@
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="37" />
+          <entry key="project.opened" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -134,20 +133,20 @@
           <entry key="dummy" value="42" />
           <entry key="md" value="263" />
           <entry key="py" value="23766" />
-          <entry key="txt" value="807" />
+          <entry key="txt" value="813" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="263" />
-          <entry key="PLAIN_TEXT" value="849" />
+          <entry key="PLAIN_TEXT" value="855" />
           <entry key="Python" value="23781" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -475,13 +474,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561564557483</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Hacker Rank 10 days of stats problem 01">
-      <created>1562736281360</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1562736281360</updated>
     </task>
     <task id="LOCAL-00003" summary="leetCode - anagram">
       <created>1562829186810</created>
@@ -819,13 +811,20 @@
       <option name="project" value="LOCAL" />
       <updated>1567364518622</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="pyplot">
+      <created>1567755297975</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1567755297975</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09304085" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20347957" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -880,7 +879,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Selection Sort - Grokky algorithm" />
     <MESSAGE value="10 days of statistics - weighted mean" />
     <MESSAGE value="10 days of statistics - standard deviation" />
     <MESSAGE value="10 days of statistics - Quartile" />
@@ -905,7 +903,8 @@
     <MESSAGE value="md update" />
     <MESSAGE value="instance variables" />
     <MESSAGE value="class variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="class variables" />
+    <MESSAGE value="pyplot" />
+    <option name="LAST_COMMIT_MESSAGE" value="pyplot" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/python_regex_part2.ipynb" />
@@ -1128,9 +1127,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
           <caret line="27" column="28" selection-end-line="28" />
-          <folding>
-            <marker date="1567359718024" expanded="true" signature="15:523" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1138,19 +1134,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1410">
           <caret line="47" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <marker date="1567364442454" expanded="true" signature="504:571" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic_programs/permutation_for_a_given_string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_programs/permutation_for_a_given_string.py" />
     <entry file="file://$PROJECT_DIR$/os_algorithm/fcfs_cpu_scheduling.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
