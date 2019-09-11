@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="249916b1-f9cf-4872-9a7a-e86d6e374f78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/built_in_functions/zip_ex01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/built_in_functions/zip_ex02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,7 +84,7 @@
     <session id="-592689814">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="37" />
+          <entry key="project.closed" value="38" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.12" value="1" />
@@ -137,13 +135,13 @@
           <entry key="dummy" value="42" />
           <entry key="md" value="263" />
           <entry key="py" value="24016" />
-          <entry key="txt" value="822" />
+          <entry key="txt" value="832" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="263" />
-          <entry key="PLAIN_TEXT" value="864" />
+          <entry key="PLAIN_TEXT" value="874" />
           <entry key="Python" value="24031" />
         </counts>
       </usages-collector>
@@ -168,8 +166,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/built_in_functions/zip_ex02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="180">
+              <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -508,13 +506,6 @@
       <option name="presentableId" value="Default" />
       <updated>1561564557483</updated>
     </task>
-    <task id="LOCAL-00004" summary="matrix multiplication">
-      <created>1563113199324</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1563113199325</updated>
-    </task>
     <task id="LOCAL-00005" summary="Hacker Rank Python - ifElse">
       <created>1563168501236</created>
       <option name="number" value="00005" />
@@ -851,7 +842,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567764510108</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="python zip">
+      <created>1567925741903</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1567925741903</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -913,7 +911,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="10 days of statistics - standard deviation" />
     <MESSAGE value="10 days of statistics - Quartile" />
     <MESSAGE value="10 days of statistics - Inter Quartile Range" />
     <MESSAGE value="tree traversal (inorder, preorder, postorder)" />
@@ -938,7 +935,8 @@
     <MESSAGE value="class variables" />
     <MESSAGE value="pyplot" />
     <MESSAGE value="bar chart" />
-    <option name="LAST_COMMIT_MESSAGE" value="bar chart" />
+    <MESSAGE value="python zip" />
+    <option name="LAST_COMMIT_MESSAGE" value="python zip" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/basic_programs/balanced_parenthesis.py">
@@ -1184,8 +1182,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/built_in_functions/zip_ex02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="180">
+          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
         </state>
       </provider>
     </entry>
