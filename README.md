@@ -70,5 +70,18 @@ data structure, algorithm, statistics, OOP, hackerrank problems using python3
 |[all prime numbers for a given interval](https://github.com/sksoumik/python-ps/blob/master/basic_programs/prime_number_for_a_given_interval.py)|
 |[remove duplicate letters from a word](https://github.com/sksoumik/python-ps/blob/master/basic_programs/remove_duplicates_from_word.py)|
 
+---
+| NumPy| 
+| ------------- | 
+|[numpy basics](https://github.com/sksoumik/python-ps/blob/master/numpy/numpy_basics.ipynb)|
+|[slicing array](https://github.com/sksoumik/python-ps/blob/master/numpy/slicing.ipynb)|
+
+---
+
+| Matplotlib | 
+| ------------- | 
+|[pyplot basics](https://github.com/sksoumik/python-ps/blob/master/matplotlib/pyplot.ipynb)|
+|[bar chart](https://github.com/sksoumik/python-ps/blob/master/matplotlib/bar_chart_and_csv.ipynb)|
+
 
 
