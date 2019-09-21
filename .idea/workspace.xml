@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="249916b1-f9cf-4872-9a7a-e86d6e374f78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hacker_rank_python/sWAP_cASE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacker_rank_python/mutations.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacker_rank_python/sWAP_cASE.py" beforeDir="false" afterPath="$PROJECT_DIR$/hacker_rank_python/sWAP_cASE.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +72,7 @@
     <SUITE FILE_PATH="coverage/python$insertion_sort_break_down.coverage" NAME="insertion_sort_break_down Coverage Results" MODIFIED="1566569124688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
     <SUITE FILE_PATH="coverage/python$problem_D.coverage" NAME="problem_D Coverage Results" MODIFIED="1566846096805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chowagiken" />
     <SUITE FILE_PATH="coverage/python$Quartiles.coverage" NAME="Quartiles Coverage Results" MODIFIED="1564803469190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_10_days_of_statistics" />
+    <SUITE FILE_PATH="coverage/python$mutations.coverage" NAME="mutations Coverage Results" MODIFIED="1569061328211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_python" />
     <SUITE FILE_PATH="coverage/python$BinarySearch.coverage" NAME="BinarySearch Coverage Results" MODIFIED="1564087620753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grokking_algorithms" />
     <SUITE FILE_PATH="coverage/python$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1565506232245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic_programs" />
     <SUITE FILE_PATH="coverage/python$bfs_graph_traversal.coverage" NAME="bfs_graph_traversal Coverage Results" MODIFIED="1566480065055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structures" />
@@ -120,7 +122,7 @@
           <entry key="ipynb" value="13" />
           <entry key="jpg" value="1" />
           <entry key="md" value="7" />
-          <entry key="py" value="99" />
+          <entry key="py" value="100" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -130,7 +132,7 @@
           <entry key="Image" value="1" />
           <entry key="Markdown" value="7" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="99" />
+          <entry key="Python" value="100" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -138,54 +140,28 @@
           <entry key="Python Console" value="15" />
           <entry key="dummy" value="42" />
           <entry key="md" value="263" />
-          <entry key="py" value="24266" />
-          <entry key="txt" value="928" />
+          <entry key="py" value="24403" />
+          <entry key="txt" value="949" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="263" />
-          <entry key="PLAIN_TEXT" value="970" />
-          <entry key="Python" value="24281" />
+          <entry key="PLAIN_TEXT" value="991" />
+          <entry key="Python" value="24418" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oop_in_python/classmethods_staticmethods.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/built_in_functions/zip_ex01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_programs/find_all_permutaions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-              <folding>
-                <marker date="1568637097738" expanded="true" signature="113:118" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hacker_rank_python/sWAP_cASE.py">
+        <entry file="file://$PROJECT_DIR$/hacker_rank_python/mutations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            <state relative-caret-position="156">
+              <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
               <folding>
-                <marker date="1569060108398" expanded="true" signature="17:44" ph="..." />
+                <marker date="1569061328173" expanded="true" signature="277:372" ph="..." />
               </folding>
             </state>
           </provider>
@@ -272,7 +248,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/basic_programs/balanced_parenthesis.py" />
         <option value="$PROJECT_DIR$/basic_programs/check_parenthesis.py" />
         <option value="$PROJECT_DIR$/python_regex_part2.ipynb" />
         <option value="$PROJECT_DIR$/data_structures/tree_traversal.py" />
@@ -323,6 +298,7 @@
         <option value="$PROJECT_DIR$/numpy/numpy_basics.ipynb" />
         <option value="$PROJECT_DIR$/basic_programs/find_all_permutaions.py" />
         <option value="$PROJECT_DIR$/hacker_rank_python/sWAP_cASE.py" />
+        <option value="$PROJECT_DIR$/hacker_rank_python/mutations.py" />
       </list>
     </option>
   </component>
@@ -386,7 +362,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sWAP_cASE">
+  <component name="RunManager" selected="Python.mutations">
     <configuration name="find_all_permutaions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -409,7 +385,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="permutation_for_a_given_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mutations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -417,12 +393,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hacker_rank_python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_programs/permutation_for_a_given_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hacker_rank_python/mutations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -498,19 +474,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.permutation_for_a_given_string" />
       <item itemvalue="Python.zip_ex01" />
       <item itemvalue="Python.zip_ex02" />
       <item itemvalue="Python.find_all_permutaions" />
       <item itemvalue="Python.sWAP_cASE" />
+      <item itemvalue="Python.mutations" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mutations" />
         <item itemvalue="Python.sWAP_cASE" />
         <item itemvalue="Python.find_all_permutaions" />
         <item itemvalue="Python.zip_ex01" />
         <item itemvalue="Python.zip_ex02" />
-        <item itemvalue="Python.permutation_for_a_given_string" />
       </list>
     </recent_temporary>
   </component>
@@ -524,13 +500,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561564557483</updated>
-    </task>
-    <task id="LOCAL-00012" summary="OOP in python - class">
-      <created>1563430719732</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1563430719732</updated>
     </task>
     <task id="LOCAL-00013" summary="OOP in python - modify object">
       <created>1563430996639</created>
@@ -868,7 +837,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568916833456</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="hackerrank -swap case">
+      <created>1569060185996</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1569060185997</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -929,7 +905,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="check palindrome" />
     <MESSAGE value="reverse linked list" />
     <MESSAGE value="md updated" />
     <MESSAGE value="bfs traversal" />
@@ -954,16 +929,10 @@
     <MESSAGE value="permutation python built in" />
     <MESSAGE value="filter, groupby in pandas" />
     <MESSAGE value="group by" />
-    <option name="LAST_COMMIT_MESSAGE" value="group by" />
+    <MESSAGE value="hackerrank -swap case" />
+    <option name="LAST_COMMIT_MESSAGE" value="hackerrank -swap case" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data_structures/balanced_parentheses_queue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data_structures/tree_traversal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1181,16 +1150,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oop_in_python/classmethods_staticmethods.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/built_in_functions/zip_ex01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic_programs/find_all_permutaions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1201,12 +1160,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hacker_rank_python/sWAP_cASE.py">
+    <entry file="file://$PROJECT_DIR$/built_in_functions/zip_ex01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop_in_python/classmethods_staticmethods.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hacker_rank_python/sWAP_cASE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding>
-            <marker date="1569060108398" expanded="true" signature="17:44" ph="..." />
+            <marker date="1569060381659" expanded="true" signature="83:110" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hacker_rank_python/mutations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+          <folding>
+            <marker date="1569061328173" expanded="true" signature="277:372" ph="..." />
           </folding>
         </state>
       </provider>
