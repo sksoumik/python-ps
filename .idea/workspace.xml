@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="249916b1-f9cf-4872-9a7a-e86d6e374f78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hacker_rank_python/mutations.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacker_rank_python/sWAP_cASE.py" beforeDir="false" afterPath="$PROJECT_DIR$/hacker_rank_python/sWAP_cASE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacker_rank_python/find_a_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/hacker_rank_python/find_a_string.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +29,7 @@
     <SUITE FILE_PATH="coverage/python$find_all_permutaions.coverage" NAME="find_all_permutaions Coverage Results" MODIFIED="1568637097761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic_programs" />
     <SUITE FILE_PATH="coverage/python$tryA.coverage" NAME="tryA Coverage Results" MODIFIED="1566832035176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chowagiken" />
     <SUITE FILE_PATH="coverage/python$ClassExample.coverage" NAME="ClassExample Coverage Results" MODIFIED="1563430680945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop_in_python" />
+    <SUITE FILE_PATH="coverage/python$find_a_string.coverage" NAME="find_a_string Coverage Results" MODIFIED="1569068109291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_python" />
     <SUITE FILE_PATH="coverage/python$basicoperations.coverage" NAME="basicoperations Coverage Results" MODIFIED="1564185261499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_python" />
     <SUITE FILE_PATH="coverage/python$problem_A.coverage" NAME="problem_A Coverage Results" MODIFIED="1566877836649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chowagiken" />
     <SUITE FILE_PATH="coverage/python$class_variables.coverage" NAME="class_variables Coverage Results" MODIFIED="1567364442480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop_in_python" />
@@ -89,7 +89,7 @@
     <session id="-592689814">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="44" />
+          <entry key="project.closed" value="45" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.12" value="1" />
@@ -98,7 +98,7 @@
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="2" />
-          <entry key="project.open.time.28" value="6" />
+          <entry key="project.open.time.28" value="7" />
           <entry key="project.open.time.29" value="3" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.30" value="1" />
@@ -114,7 +114,7 @@
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="46" />
+          <entry key="project.opened" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -122,7 +122,7 @@
           <entry key="ipynb" value="13" />
           <entry key="jpg" value="1" />
           <entry key="md" value="7" />
-          <entry key="py" value="100" />
+          <entry key="py" value="101" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -132,7 +132,7 @@
           <entry key="Image" value="1" />
           <entry key="Markdown" value="7" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="100" />
+          <entry key="Python" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -140,29 +140,35 @@
           <entry key="Python Console" value="15" />
           <entry key="dummy" value="42" />
           <entry key="md" value="263" />
-          <entry key="py" value="24403" />
-          <entry key="txt" value="949" />
+          <entry key="py" value="24622" />
+          <entry key="txt" value="957" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="263" />
-          <entry key="PLAIN_TEXT" value="991" />
-          <entry key="Python" value="24418" />
+          <entry key="PLAIN_TEXT" value="999" />
+          <entry key="Python" value="24637" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hacker_rank_python/mutations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
-              <folding>
-                <marker date="1569061328173" expanded="true" signature="277:372" ph="..." />
-              </folding>
+            <state relative-caret-position="510">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hacker_rank_python/find_a_string.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -248,7 +254,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/basic_programs/check_parenthesis.py" />
         <option value="$PROJECT_DIR$/python_regex_part2.ipynb" />
         <option value="$PROJECT_DIR$/data_structures/tree_traversal.py" />
         <option value="$PROJECT_DIR$/data_structures/balanced_parentheses_queue.py" />
@@ -299,6 +304,7 @@
         <option value="$PROJECT_DIR$/basic_programs/find_all_permutaions.py" />
         <option value="$PROJECT_DIR$/hacker_rank_python/sWAP_cASE.py" />
         <option value="$PROJECT_DIR$/hacker_rank_python/mutations.py" />
+        <option value="$PROJECT_DIR$/hacker_rank_python/find_a_string.py" />
       </list>
     </option>
   </component>
@@ -309,8 +315,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-138" />
-    <option name="y" value="106" />
+    <option name="x" value="-62" />
+    <option name="y" value="191" />
     <option name="width" value="1382" />
     <option name="height" value="784" />
   </component>
@@ -326,11 +332,6 @@
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="hacker_rank_python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -362,7 +363,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mutations">
+  <component name="RunManager" selected="Python.find_a_string">
+    <configuration name="find_a_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hacker_rank_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hacker_rank_python/find_a_string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="find_all_permutaions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -451,42 +474,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zip_ex02" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/built_in_functions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/built_in_functions/zip_ex02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.zip_ex01" />
-      <item itemvalue="Python.zip_ex02" />
       <item itemvalue="Python.find_all_permutaions" />
       <item itemvalue="Python.sWAP_cASE" />
       <item itemvalue="Python.mutations" />
+      <item itemvalue="Python.find_a_string" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.find_a_string" />
         <item itemvalue="Python.mutations" />
         <item itemvalue="Python.sWAP_cASE" />
         <item itemvalue="Python.find_all_permutaions" />
         <item itemvalue="Python.zip_ex01" />
-        <item itemvalue="Python.zip_ex02" />
       </list>
     </recent_temporary>
   </component>
@@ -500,13 +501,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561564557483</updated>
-    </task>
-    <task id="LOCAL-00013" summary="OOP in python - modify object">
-      <created>1563430996639</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1563430996639</updated>
     </task>
     <task id="LOCAL-00014" summary="OOP in python - inheritance">
       <created>1563434790996</created>
@@ -844,18 +838,25 @@
       <option name="project" value="LOCAL" />
       <updated>1569060185997</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="hackerrank -mutation">
+      <created>1569061452789</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1569061452789</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22541603" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22541603" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40923077" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24615385" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -905,7 +906,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="reverse linked list" />
     <MESSAGE value="md updated" />
     <MESSAGE value="bfs traversal" />
     <MESSAGE value="check prime" />
@@ -930,16 +930,10 @@
     <MESSAGE value="filter, groupby in pandas" />
     <MESSAGE value="group by" />
     <MESSAGE value="hackerrank -swap case" />
-    <option name="LAST_COMMIT_MESSAGE" value="hackerrank -swap case" />
+    <MESSAGE value="hackerrank -mutation" />
+    <option name="LAST_COMMIT_MESSAGE" value="hackerrank -mutation" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data_structures/tree_traversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data_structures/reverse_linked_list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1230">
@@ -1154,9 +1148,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding>
-            <marker date="1568637097738" expanded="true" signature="113:118" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1174,19 +1165,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <marker date="1569060381659" expanded="true" signature="83:110" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hacker_rank_python/mutations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
-          <folding>
-            <marker date="1569061328173" expanded="true" signature="277:372" ph="..." />
-          </folding>
+        <state relative-caret-position="510">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hacker_rank_python/find_a_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
         </state>
       </provider>
     </entry>
