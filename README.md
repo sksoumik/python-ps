@@ -72,6 +72,7 @@ data structure, algorithm, statistics, OOP, hackerrank problems using python3
 |[find all permutaions for a given string](https://github.com/sksoumik/python-ps/blob/master/basic_programs/find_all_permutaions.py)|
 |[finding lcm gcd](https://github.com/sksoumik/python-ps/blob/master/basic_programs/finding_lcm_gcd.py)|
 |[find all permutaions for a given string](https://github.com/sksoumik/python-ps/blob/master/basic_programs/find_all_permutaions.py)|
+|[reversing an array in 4 different ways in python](https://github.com/sksoumik/python-ps/blob/master/basic_programs/reversing_a_list.py)|
 
 ---
 | NumPy| 
