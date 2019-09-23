@@ -70,7 +70,6 @@ data structure, algorithm, statistics, OOP, hackerrank problems using python3
 |[all prime numbers for a given interval](https://github.com/sksoumik/python-ps/blob/master/basic_programs/prime_number_for_a_given_interval.py)|
 |[remove duplicate letters from a word](https://github.com/sksoumik/python-ps/blob/master/basic_programs/remove_duplicates_from_word.py)|
 |[find all permutaions for a given string](https://github.com/sksoumik/python-ps/blob/master/basic_programs/find_all_permutaions.py)|
-|[remove duplicates from a word](https://github.com/sksoumik/python-ps/blob/master/basic_programs/remove_duplicates_from_word.py)|
 |[finding lcm gcd](https://github.com/sksoumik/python-ps/blob/master/basic_programs/finding_lcm_gcd.py)|
 |[find all permutaions for a given string](https://github.com/sksoumik/python-ps/blob/master/basic_programs/find_all_permutaions.py)|
 
