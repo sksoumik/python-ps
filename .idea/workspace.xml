@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="249916b1-f9cf-4872-9a7a-e86d6e374f78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/basic_programs/reversing_a_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacker_rank_python/nested_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacker_rank_10_days_of_statistics/binomial_distribution_I.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,6 +52,7 @@
     <SUITE FILE_PATH="coverage/python$FizzBuzz_revisited.coverage" NAME="FizzBuzz_revisited Coverage Results" MODIFIED="1565505107409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic_programs" />
     <SUITE FILE_PATH="coverage/python$finding_lcm_gcd.coverage" NAME="finding_lcm_gcd Coverage Results" MODIFIED="1566570974887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic_programs" />
     <SUITE FILE_PATH="coverage/python$problem_E.coverage" NAME="problem_E Coverage Results" MODIFIED="1566823404711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chowagiken" />
+    <SUITE FILE_PATH="coverage/python$binomial_distribution_I.coverage" NAME="binomial_distribution_I Coverage Results" MODIFIED="1569273470929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_10_days_of_statistics" />
     <SUITE FILE_PATH="coverage/python$balanced_parenthesis.coverage" NAME="balanced_parenthesis Coverage Results" MODIFIED="1566239094057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic_programs" />
     <SUITE FILE_PATH="coverage/python$prob_D.coverage" NAME="prob_D Coverage Results" MODIFIED="1566844520580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chowagiken" />
     <SUITE FILE_PATH="coverage/python$PrintFunction.coverage" NAME="PrintFunction Coverage Results" MODIFIED="1564182269950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_python" />
@@ -92,12 +92,12 @@
     <session id="-592689814">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="47" />
+          <entry key="project.closed" value="48" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="2" />
-          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.14" value="3" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.26" value="1" />
@@ -118,7 +118,7 @@
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="49" />
+          <entry key="project.opened" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -126,7 +126,7 @@
           <entry key="ipynb" value="14" />
           <entry key="jpg" value="1" />
           <entry key="md" value="7" />
-          <entry key="py" value="104" />
+          <entry key="py" value="105" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -136,7 +136,7 @@
           <entry key="Image" value="1" />
           <entry key="Markdown" value="7" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="104" />
+          <entry key="Python" value="105" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -144,15 +144,15 @@
           <entry key="Python Console" value="15" />
           <entry key="dummy" value="42" />
           <entry key="md" value="263" />
-          <entry key="py" value="25782" />
-          <entry key="txt" value="1038" />
+          <entry key="py" value="25822" />
+          <entry key="txt" value="1076" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="263" />
-          <entry key="PLAIN_TEXT" value="1080" />
-          <entry key="Python" value="25797" />
+          <entry key="PLAIN_TEXT" value="1118" />
+          <entry key="Python" value="25837" />
         </counts>
       </usages-collector>
     </session>
@@ -180,7 +180,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hacker_rank_python/find_second_maximum_number_in_a_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
+            <state relative-caret-position="360">
               <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
               <folding>
                 <marker date="1569159880554" expanded="true" signature="112:403" ph="..." />
@@ -198,14 +198,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basic_programs/reversing_a_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="30">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
               <folding>
                 <marker date="1569246345384" expanded="true" signature="368:476" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hacker_rank_10_days_of_statistics/binomial_distribution_I.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -291,7 +300,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data_structures/stack_implementation_array.py" />
         <option value="$PROJECT_DIR$/data_structures/tower_of_hanoi_recursion.py" />
         <option value="$PROJECT_DIR$/basic_programs/palindrome.py" />
         <option value="$PROJECT_DIR$/leetCode/ValidAnagram.py" />
@@ -342,6 +350,7 @@
         <option value="$PROJECT_DIR$/hacker_rank_python/find_second_maximum_number_in_a_list.py" />
         <option value="$PROJECT_DIR$/hacker_rank_python/nested_lists.py" />
         <option value="$PROJECT_DIR$/basic_programs/reversing_a_list.py" />
+        <option value="$PROJECT_DIR$/hacker_rank_10_days_of_statistics/binomial_distribution_I.py" />
       </list>
     </option>
   </component>
@@ -372,7 +381,7 @@
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="basic_programs" type="462c0819:PsiDirectoryNode" />
+              <item name="hacker_rank_10_days_of_statistics" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -405,7 +414,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.reversing_a_list">
+  <component name="RunManager" selected="Python.binomial_distribution_I">
+    <configuration name="binomial_distribution_I" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hacker_rank_10_days_of_statistics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hacker_rank_10_days_of_statistics/binomial_distribution_I.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="find_a_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -494,42 +525,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sWAP_cASE" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hacker_rank_python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hacker_rank_python/sWAP_cASE.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.sWAP_cASE" />
       <item itemvalue="Python.mutations" />
       <item itemvalue="Python.find_a_string" />
       <item itemvalue="Python.find_second_maximum_number_in_a_list" />
       <item itemvalue="Python.reversing_a_list" />
+      <item itemvalue="Python.binomial_distribution_I" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.binomial_distribution_I" />
         <item itemvalue="Python.reversing_a_list" />
         <item itemvalue="Python.find_second_maximum_number_in_a_list" />
         <item itemvalue="Python.find_a_string" />
         <item itemvalue="Python.mutations" />
-        <item itemvalue="Python.sWAP_cASE" />
       </list>
     </recent_temporary>
   </component>
@@ -543,13 +552,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561564557483</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Selection Sort - Grokky algorithm">
-      <created>1564110678634</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1564110678634</updated>
     </task>
     <task id="LOCAL-00018" summary="10 days of statistics - weighted mean">
       <created>1564798865983</created>
@@ -887,7 +889,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569160133573</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="reverse an array in 4 different ways">
+      <created>1569246372973</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1569246372974</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -949,7 +958,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="print all prime numbers for a given interval" />
     <MESSAGE value="remove duplicates from word" />
     <MESSAGE value="heap sort" />
     <MESSAGE value="heap sort md update" />
@@ -974,16 +982,10 @@
     <MESSAGE value="linear algebra" />
     <MESSAGE value="hackerrank - find the runner up" />
     <MESSAGE value="linalg -matrix operations" />
-    <option name="LAST_COMMIT_MESSAGE" value="linalg -matrix operations" />
+    <MESSAGE value="reverse an array in 4 different ways" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverse an array in 4 different ways" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jupyter notebooks/recursion.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jupyter notebooks/python_interview_questions.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -1204,16 +1206,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hacker_rank_python/nested_lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hacker_rank_python/find_second_maximum_number_in_a_list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
+        <state relative-caret-position="360">
           <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
           <folding>
             <marker date="1569159880554" expanded="true" signature="112:403" ph="..." />
@@ -1221,13 +1216,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hacker_rank_python/nested_lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/basic_programs/reversing_a_list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="30">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
           <folding>
             <marker date="1569246345384" expanded="true" signature="368:476" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hacker_rank_10_days_of_statistics/binomial_distribution_I.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
