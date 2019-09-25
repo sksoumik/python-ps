@@ -146,15 +146,15 @@
         <counts>
           <entry key="Python Console" value="15" />
           <entry key="dummy" value="42" />
-          <entry key="md" value="406" />
+          <entry key="md" value="611" />
           <entry key="py" value="25849" />
-          <entry key="txt" value="1112" />
+          <entry key="txt" value="1127" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="406" />
-          <entry key="PLAIN_TEXT" value="1154" />
+          <entry key="Markdown" value="611" />
+          <entry key="PLAIN_TEXT" value="1169" />
           <entry key="Python" value="25864" />
         </counts>
       </usages-collector>
@@ -205,8 +205,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="808">
-                <caret line="95" column="7" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
+              <first_editor relative-caret-position="658">
+                <caret line="101" column="12" selection-start-line="101" selection-start-column="12" selection-end-line="101" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -563,20 +563,6 @@
       <option name="presentableId" value="Default" />
       <updated>1561564557483</updated>
     </task>
-    <task id="LOCAL-00020" summary="10 days of statistics - Quartile">
-      <created>1564803579074</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1564803579074</updated>
-    </task>
-    <task id="LOCAL-00021" summary="10 days of statistics - Inter Quartile Range">
-      <created>1564808411324</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1564808411324</updated>
-    </task>
     <task id="LOCAL-00022" summary="tree traversal (inorder, preorder, postorder)">
       <created>1566307486962</created>
       <option name="number" value="00022" />
@@ -906,14 +892,28 @@
       <option name="project" value="LOCAL" />
       <updated>1569417387705</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="markdown update">
+      <created>1569417848366</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1569417848366</updated>
+    </task>
+    <task id="LOCAL-00070" summary="markdown update">
+      <created>1569418170409</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1569418170409</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-208" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15884861" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.024520256" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -968,7 +968,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="heap sort md update" />
     <MESSAGE value="heap sort md" />
     <MESSAGE value="bubble sort" />
     <MESSAGE value="quick sort updated" />
@@ -993,7 +992,8 @@
     <MESSAGE value="reverse an array in 4 different ways" />
     <MESSAGE value="binomial distribution" />
     <MESSAGE value="nested lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="nested lists" />
+    <MESSAGE value="markdown update" />
+    <option name="LAST_COMMIT_MESSAGE" value="markdown update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/jupyter notebooks/python_interview_questions.ipynb">
@@ -1243,8 +1243,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="808">
-            <caret line="95" column="7" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
+          <first_editor relative-caret-position="658">
+            <caret line="101" column="12" selection-start-line="101" selection-start-column="12" selection-end-line="101" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>

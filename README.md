@@ -97,7 +97,10 @@ data structure, algorithm, statistics, OOP, hackerrank problems using python3
 |[print function](https://github.com/sksoumik/python-ps/blob/master/hacker_rank_python/PrintFunction.py)|[problem link](https://www.hackerrank.com/challenges/python-print)|
 |[write function](https://github.com/sksoumik/python-ps/blob/master/hacker_rank_python/WriteFunction.py)|[problem link](https://www.hackerrank.com/challenges/write-a-function/problem)|
 |[find a string](https://github.com/sksoumik/python-ps/blob/master/hacker_rank_python/find_a_string.py)|[problem link](https://www.hackerrank.com/challenges/find-a-string)|
-|[]()|[]()|
-|[]()|[]()|
+|[find second maximum numbre from an array](https://github.com/sksoumik/python-ps/blob/master/hacker_rank_python/find_second_maximum_number_in_a_list.py)|[problem link](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)|
+|[if else](https://github.com/sksoumik/python-ps/blob/master/hacker_rank_python/ifElse.py)|[problem link](https://www.hackerrank.com/challenges/py-if-else/problem)|
+|[mutation](https://github.com/sksoumik/python-ps/blob/master/hacker_rank_python/mutations.py)|[problem link](https://www.hackerrank.com/challenges/python-mutations)|
+|[nested list](https://github.com/sksoumik/python-ps/blob/master/hacker_rank_python/nested_lists.py)|[problem link](https://www.hackerrank.com/challenges/nested-list/problem?h_r=next-challenge&h_v=zen
+)|
 
 
