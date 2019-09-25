@@ -94,5 +94,10 @@ data structure, algorithm, statistics, OOP, hackerrank problems using python3
 | -------------      | ------------------|
 |[arithmetic](https://github.com/sksoumik/python-ps/blob/master/hacker_rank_python/Arithmetic.py)| [problem link](https://www.hackerrank.com/challenges/python-arithmetic-operators)|
 |[loops](https://github.com/sksoumik/python-ps/blob/master/hacker_rank_python/Loops.py)|[problem link](https://www.hackerrank.com/challenges/python-loops/problem)|
+|[print function](https://github.com/sksoumik/python-ps/blob/master/hacker_rank_python/PrintFunction.py)|[problem link](https://www.hackerrank.com/challenges/python-print)|
+|[write function](https://github.com/sksoumik/python-ps/blob/master/hacker_rank_python/WriteFunction.py)|[problem link](https://www.hackerrank.com/challenges/write-a-function/problem)|
+|[find a string](https://github.com/sksoumik/python-ps/blob/master/hacker_rank_python/find_a_string.py)|[problem link](https://www.hackerrank.com/challenges/find-a-string)|
+|[]()|[]()|
+|[]()|[]()|
 
 
