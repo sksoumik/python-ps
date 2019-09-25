@@ -24,6 +24,7 @@ data structure, algorithm, statistics, OOP, hackerrank problems using python3
 |[find weighted mean](https://github.com/sksoumik/python-ps/blob/master/hacker_rank_10_days_of_statistics/weighted_mean.py)|
 |[find interquartile range](https://github.com/sksoumik/python-ps/blob/master/hacker_rank_10_days_of_statistics/interquartile_range.py)|
 |[find quartiles](https://github.com/sksoumik/python-ps/blob/master/hacker_rank_10_days_of_statistics/Quartiles.py)|
+|[find binomial distribution from birth ratio](https://github.com/sksoumik/python-ps/blob/master/hacker_rank_10_days_of_statistics/binomial_distribution_I.py)|
 ---
 
 | Sorting Algorithms  | 
