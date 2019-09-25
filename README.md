@@ -88,5 +88,11 @@ data structure, algorithm, statistics, OOP, hackerrank problems using python3
 |[pyplot basics](https://github.com/sksoumik/python-ps/blob/master/matplotlib/pyplot.ipynb)|
 |[bar chart](https://github.com/sksoumik/python-ps/blob/master/matplotlib/bar_chart_and_csv.ipynb)|
 
+--- 
+#### HackerRank Python 
+| Name and Solution  | Problem Link | 
+| -------------      | ------------------|
+|[arithmetic](https://github.com/sksoumik/python-ps/blob/master/hacker_rank_python/Arithmetic.py)| [problem link](https://www.hackerrank.com/challenges/python-arithmetic-operators)|
+|[loops](https://github.com/sksoumik/python-ps/blob/master/hacker_rank_python/Loops.py)|[problem link](https://www.hackerrank.com/challenges/python-loops/problem)|
 
 
