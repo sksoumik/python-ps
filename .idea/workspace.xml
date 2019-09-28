@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="249916b1-f9cf-4872-9a7a-e86d6e374f78" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_programs/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_programs/factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplotlib/bar_chart_and_csv.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/matplotlib/bar_chart_and_csv.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplotlib/pyplot.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/matplotlib/pyplot.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +86,7 @@
     <SUITE FILE_PATH="coverage/python$tower_of_hanoi_recursion.coverage" NAME="tower_of_hanoi_recursion Coverage Results" MODIFIED="1566324625945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structures" />
     <SUITE FILE_PATH="coverage/python$problem_C.coverage" NAME="problem_C Coverage Results" MODIFIED="1566822677115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chowagiken" />
     <SUITE FILE_PATH="coverage/python$Heapify.coverage" NAME="Heapify Coverage Results" MODIFIED="1563185396247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structures" />
-    <SUITE FILE_PATH="coverage/python$check_prime.coverage" NAME="check_prime Coverage Results" MODIFIED="1566482240512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic_programs" />
+    <SUITE FILE_PATH="coverage/python$check_prime.coverage" NAME="check_prime Coverage Results" MODIFIED="1569659803333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic_programs" />
     <SUITE FILE_PATH="coverage/python$Dog.coverage" NAME="Dog Coverage Results" MODIFIED="1563434763232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop_in_python" />
     <SUITE FILE_PATH="coverage/python$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1566567523227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorting_algorithms" />
     <SUITE FILE_PATH="coverage/python$heap_sort.coverage" NAME="heap_sort Coverage Results" MODIFIED="1566512341869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
@@ -93,9 +95,9 @@
     <session id="-592689814">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="50" />
+          <entry key="project.closed" value="53" />
           <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="3" />
@@ -108,7 +110,7 @@
           <entry key="project.open.time.28" value="7" />
           <entry key="project.open.time.29" value="3" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.30" value="2" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.32" value="2" />
           <entry key="project.open.time.33" value="3" />
@@ -118,42 +120,43 @@
           <entry key="project.open.time.37" value="3" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="52" />
+          <entry key="project.opened" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ipynb" value="14" />
+          <entry key="ipynb" value="16" />
           <entry key="jpg" value="1" />
           <entry key="md" value="8" />
-          <entry key="py" value="105" />
+          <entry key="py" value="110" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="14" />
+          <entry key="IPNB" value="16" />
           <entry key="Image" value="1" />
           <entry key="Markdown" value="8" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="105" />
+          <entry key="Python" value="110" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="15" />
           <entry key="dummy" value="42" />
-          <entry key="md" value="611" />
+          <entry key="md" value="647" />
           <entry key="py" value="25849" />
           <entry key="txt" value="1127" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="611" />
+          <entry key="Markdown" value="647" />
           <entry key="PLAIN_TEXT" value="1169" />
           <entry key="Python" value="25864" />
         </counts>
@@ -163,73 +166,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hacker_rank_python/mutations.py">
+        <entry file="file://$PROJECT_DIR$/basic_programs/calculator.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic_programs/check_parenthesis.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic_programs/check_prime.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="420">
+              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hacker_rank_python/find_a_string.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hacker_rank_python/find_second_maximum_number_in_a_list.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-              <folding>
-                <marker date="1569159880554" expanded="true" signature="112:403" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hacker_rank_python/nested_lists.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="584">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/basic_programs/factor.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="658">
-                <caret line="101" column="12" selection-start-line="101" selection-start-column="12" selection-end-line="101" selection-end-column="12" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_programs/reversing_a_list.py">
+        <entry file="file://$PROJECT_DIR$/basic_programs/factorial.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <marker date="1569246345384" expanded="true" signature="368:476" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hacker_rank_10_days_of_statistics/binomial_distribution_I.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="150">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -315,7 +279,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data_structures/tower_of_hanoi_recursion.py" />
         <option value="$PROJECT_DIR$/basic_programs/palindrome.py" />
         <option value="$PROJECT_DIR$/leetCode/ValidAnagram.py" />
         <option value="$PROJECT_DIR$/data_structures/reverse_linked_list.py" />
@@ -332,7 +295,6 @@
         <option value="$PROJECT_DIR$/algorithms/insertion_sort.py" />
         <option value="$PROJECT_DIR$/algorithms/insertion_sort_break_down.py" />
         <option value="$PROJECT_DIR$/basic_programs/finding_lcm_gcd.py" />
-        <option value="$PROJECT_DIR$/basic_programs/factorial.py" />
         <option value="$PROJECT_DIR$/chowagiken/problem_A_pair.py" />
         <option value="$PROJECT_DIR$/chowagiken/problem_D_revited.py" />
         <option value="$PROJECT_DIR$/chowagiken/problem_E.py" />
@@ -366,6 +328,8 @@
         <option value="$PROJECT_DIR$/hacker_rank_10_days_of_statistics/binomial_distribution_I.py" />
         <option value="$PROJECT_DIR$/hacker_rank_python/nested_lists.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/matplotlib/pyplot.ipynb" />
+        <option value="$PROJECT_DIR$/basic_programs/factorial.py" />
       </list>
     </option>
   </component>
@@ -393,6 +357,11 @@
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_programs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -424,7 +393,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.nested_lists">
+  <component name="RunManager" selected="Python.check_prime">
     <configuration name="binomial_distribution_I" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -447,7 +416,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="find_a_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="check_prime" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -455,12 +424,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hacker_rank_python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hacker_rank_python/find_a_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_programs/check_prime.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -536,19 +505,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.find_a_string" />
       <item itemvalue="Python.find_second_maximum_number_in_a_list" />
       <item itemvalue="Python.reversing_a_list" />
       <item itemvalue="Python.binomial_distribution_I" />
       <item itemvalue="Python.nested_lists" />
+      <item itemvalue="Python.check_prime" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.check_prime" />
         <item itemvalue="Python.nested_lists" />
         <item itemvalue="Python.binomial_distribution_I" />
         <item itemvalue="Python.reversing_a_list" />
         <item itemvalue="Python.find_second_maximum_number_in_a_list" />
-        <item itemvalue="Python.find_a_string" />
       </list>
     </recent_temporary>
   </component>
@@ -562,20 +531,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561564557483</updated>
-    </task>
-    <task id="LOCAL-00022" summary="tree traversal (inorder, preorder, postorder)">
-      <created>1566307486962</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1566307486962</updated>
-    </task>
-    <task id="LOCAL-00023" summary="tree traversal (inorder, preorder, postorder)">
-      <created>1566307591024</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1566307591024</updated>
     </task>
     <task id="LOCAL-00024" summary="checking balanced parenthesis">
       <created>1566321548952</created>
@@ -906,14 +861,28 @@
       <option name="project" value="LOCAL" />
       <updated>1569418170409</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="markdown update">
+      <created>1569418382413</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1569418382415</updated>
+    </task>
+    <task id="LOCAL-00072" summary="markdown update">
+      <created>1569418415801</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1569418415801</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-208" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.024520256" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13219616" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -996,48 +965,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="markdown update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jupyter notebooks/python_interview_questions.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_programs/check_prime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jupyter notebooks/basic_problem_solving.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jupyter notebooks/recursive_functions.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/heap_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="19" column="15" lean-forward="true" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sorting_algorithms/heap_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sorting_algorithms/quick_sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -1064,13 +991,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="1" column="30" lean-forward="true" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_programs/factorial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -1192,17 +1112,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hacker_rank_python/mutations.py">
+    <entry file="file://$PROJECT_DIR$/basic_programs/reversing_a_list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="90">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <marker date="1569246345384" expanded="true" signature="368:476" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hacker_rank_python/find_a_string.py">
+    <entry file="file://$PROJECT_DIR$/matplotlib/bar_chart_and_csv.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplotlib/pyplot.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="148">
+            <caret line="84" selection-start-line="84" selection-end-line="84" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hacker_rank_python/nested_lists.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        <state relative-caret-position="630">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hacker_rank_10_days_of_statistics/binomial_distribution_I.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -1216,37 +1170,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic_programs/reversing_a_list.py">
+    <entry file="file://$PROJECT_DIR$/hacker_rank_python/find_a_string.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <marker date="1569246345384" expanded="true" signature="368:476" ph="..." />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hacker_rank_10_days_of_statistics/binomial_distribution_I.py">
+    <entry file="file://$PROJECT_DIR$/hacker_rank_python/mutations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="284">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hacker_rank_python/nested_lists.py">
+    <entry file="file://$PROJECT_DIR$/basic_programs/calculator.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_programs/check_parenthesis.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_programs/check_prime.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="420">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="658">
-            <caret line="101" column="12" selection-start-line="101" selection-start-column="12" selection-end-line="101" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/basic_programs/factor.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_programs/factorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
