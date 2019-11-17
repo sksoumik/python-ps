@@ -2,11 +2,233 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="249916b1-f9cf-4872-9a7a-e86d6e374f78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/built_in_functions/ordered_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacker_rank_python/finding_the_percentage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop_in_python/self_keyword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/branch checking.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/built_in_functions/length_encoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacker_rank_python/arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacker_rank_python/shape_and_reshape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacker_rank_python/the_minion_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacker_rank_python/transpose_and_flatten.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear_algebra/.ipynb_checkpoints/matrix_operations_functions-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/arange-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/filter_image-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/arange.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/dc-metro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/filter_image.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv/dog.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv/reading_image_rgb_matplotlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/data_frame-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/data_operations-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/plots-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/reading_files-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/series-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/unstack-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/cast.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/names/yob1880.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/names/yob1881.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/names/yob1882.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/names/yob1883.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/names/yob1884.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/names/yob1885.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/names/yob1886.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/names/yob1887.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/plots.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pandas_to_numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/cast.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/names/yob1880.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/names/yob1881.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/names/yob1882.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/names/yob1883.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/names/yob1884.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/names/yob1885.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/names/yob1886.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/names/yob1887.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/readEx/csv_mindex.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/readEx/d_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/readEx/d_out2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/readEx/ex1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/readEx/ex2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/readEx/ex3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/readEx/ex3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/readEx/ex4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/readEx/ex5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/readEx/ex6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/readEx/ex7.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/readEx/frame_pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/readEx/ipython_log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/readEx/out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/readEx/test_file.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/readEx/tseries.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/release_dates.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/time/stocks.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/data/titles.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/make.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/babyname.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/basic.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/dataprocessing.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/example1/plot1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/example1/plot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/example1/plot3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/example1/plot4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/example1/plot5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/example1/plot6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/example1/plot7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/plot1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1880.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1881.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1882.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1883.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1884.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1885.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1886.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1887.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1888.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1889.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1890.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1891.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1892.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1893.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1894.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1895.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1896.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1897.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1898.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1899.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1900.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1901.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1902.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1903.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1904.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1905.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1906.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1907.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1908.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1909.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1910.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1911.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1912.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1913.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1914.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1915.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1916.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1917.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1918.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1919.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1920.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1921.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1922.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1923.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1924.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1925.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1926.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1927.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1928.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1929.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1930.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1931.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1932.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1933.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1934.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1935.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1936.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1937.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1938.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1939.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1940.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1941.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1942.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1943.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1944.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1945.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1946.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1947.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1948.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1949.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1950.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1951.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1952.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1953.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1954.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1955.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1956.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1957.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1958.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1959.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1960.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1961.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1962.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1963.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1964.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1965.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1966.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1967.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1968.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1969.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1970.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1971.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1972.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1973.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1974.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1975.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1976.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1977.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1978.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1979.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1980.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1981.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1982.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1983.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1984.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1985.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1986.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1987.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1988.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1989.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1990.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1991.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1992.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1993.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1994.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1995.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1996.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1997.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1998.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob1999.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob2000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob2001.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob2002.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob2003.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob2004.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob2005.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob2006.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob2007.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob2008.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob2009.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/names/yob2010.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/numpy.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/overview.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/timeseries.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/timeseries/plot1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/timeseries/plot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/timeseries/plot3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/Pandas/timeseries/plot4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/_static/copybutton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/_static/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/_static/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/_static/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/_templates/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/_templates/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/conf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pythondsp-pandasguide-1b04b7c96d95/doc/source/index.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/release_dates.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/titles.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorch/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorch/Untitled.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacker_rank_python/nested_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/hacker_rank_python/nested_lists.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +253,7 @@
     <SUITE FILE_PATH="coverage/python$SelectionSort.coverage" NAME="SelectionSort Coverage Results" MODIFIED="1564110746904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grokking_algorithms" />
     <SUITE FILE_PATH="coverage/python$prime_number_for_a_given_interval.coverage" NAME="prime_number_for_a_given_interval Coverage Results" MODIFIED="1566485423588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic_programs" />
     <SUITE FILE_PATH="coverage/python$Employee.coverage" NAME="Employee Coverage Results" MODIFIED="1569723368057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop_in_python" />
+    <SUITE FILE_PATH="coverage/python$transpose_and_flatten.coverage" NAME="transpose_and_flatten Coverage Results" MODIFIED="1573994277768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_python" />
     <SUITE FILE_PATH="coverage/python$find_all_permutaions.coverage" NAME="find_all_permutaions Coverage Results" MODIFIED="1568637097761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic_programs" />
     <SUITE FILE_PATH="coverage/python$tryA.coverage" NAME="tryA Coverage Results" MODIFIED="1566832035176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chowagiken" />
     <SUITE FILE_PATH="coverage/python$ClassExample.coverage" NAME="ClassExample Coverage Results" MODIFIED="1563430680945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop_in_python" />
@@ -65,6 +288,7 @@
     <SUITE FILE_PATH="coverage/python$PrintFunction.coverage" NAME="PrintFunction Coverage Results" MODIFIED="1564182269950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_python" />
     <SUITE FILE_PATH="coverage/python$interquartile_range.coverage" NAME="interquartile_range Coverage Results" MODIFIED="1564808372940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_10_days_of_statistics" />
     <SUITE FILE_PATH="coverage/python$SinglyLinkedList.coverage" NAME="SinglyLinkedList Coverage Results" MODIFIED="1563700823096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structures" />
+    <SUITE FILE_PATH="coverage/python$the_minion_game.coverage" NAME="the_minion_game Coverage Results" MODIFIED="1573988818594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_python" />
     <SUITE FILE_PATH="coverage/python$setIntersection.coverage" NAME="setIntersection Coverage Results" MODIFIED="1563173946476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_python" />
     <SUITE FILE_PATH="coverage/python$weighted_mean.coverage" NAME="weighted_mean Coverage Results" MODIFIED="1564798769679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_10_days_of_statistics" />
     <SUITE FILE_PATH="coverage/python$stack_implementation_array.coverage" NAME="stack_implementation_array Coverage Results" MODIFIED="1566321452145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structures" />
@@ -76,18 +300,22 @@
     <SUITE FILE_PATH="coverage/python$remove_duplicates_from_string.coverage" NAME="remove_duplicates_from_string Coverage Results" MODIFIED="1566486455393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic_programs" />
     <SUITE FILE_PATH="coverage/python$finding_the_percentage.coverage" NAME="finding_the_percentage Coverage Results" MODIFIED="1570735895861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_python" />
     <SUITE FILE_PATH="coverage/python$tryD.coverage" NAME="tryD Coverage Results" MODIFIED="1566860258897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chowagiken" />
+    <SUITE FILE_PATH="coverage/python$pandas_to_numpy.coverage" NAME="pandas_to_numpy Coverage Results" MODIFIED="1573394299269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95" />
+    <SUITE FILE_PATH="coverage/python$arrays.coverage" NAME="arrays Coverage Results" MODIFIED="1573989764038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_python" />
     <SUITE FILE_PATH="coverage/python$FizzBuzz.coverage" NAME="FizzBuzz Coverage Results" MODIFIED="1565504464946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/japan" />
     <SUITE FILE_PATH="coverage/python$balanced_parentheses_queue.coverage" NAME="balanced_parentheses_queue Coverage Results" MODIFIED="1566317348438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structures" />
     <SUITE FILE_PATH="coverage/python$insertion_sort.coverage" NAME="insertion_sort Coverage Results" MODIFIED="1566567867327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
     <SUITE FILE_PATH="coverage/python$problem_A_pair.coverage" NAME="problem_A_pair Coverage Results" MODIFIED="1566657729237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chowagiken" />
     <SUITE FILE_PATH="coverage/python$insertion_sort_break_down.coverage" NAME="insertion_sort_break_down Coverage Results" MODIFIED="1566569124688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
     <SUITE FILE_PATH="coverage/python$problem_D.coverage" NAME="problem_D Coverage Results" MODIFIED="1566846096805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chowagiken" />
+    <SUITE FILE_PATH="coverage/python$shape_and_reshape.coverage" NAME="shape_and_reshape Coverage Results" MODIFIED="1573991003618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_python" />
     <SUITE FILE_PATH="coverage/python$Quartiles.coverage" NAME="Quartiles Coverage Results" MODIFIED="1564803469190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_10_days_of_statistics" />
     <SUITE FILE_PATH="coverage/python$mutations.coverage" NAME="mutations Coverage Results" MODIFIED="1569061328211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank_python" />
     <SUITE FILE_PATH="coverage/python$BinarySearch.coverage" NAME="BinarySearch Coverage Results" MODIFIED="1564087620753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grokking_algorithms" />
     <SUITE FILE_PATH="coverage/python$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1565506232245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic_programs" />
     <SUITE FILE_PATH="coverage/python$bfs_graph_traversal.coverage" NAME="bfs_graph_traversal Coverage Results" MODIFIED="1566480065055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structures" />
     <SUITE FILE_PATH="coverage/python$LinkedList.coverage" NAME="LinkedList Coverage Results" MODIFIED="1563622714604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structures" />
+    <SUITE FILE_PATH="coverage/python$length_encoding.coverage" NAME="length_encoding Coverage Results" MODIFIED="1573393686217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_functions" />
     <SUITE FILE_PATH="coverage/python$tower_of_hanoi_recursion.coverage" NAME="tower_of_hanoi_recursion Coverage Results" MODIFIED="1566324625945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structures" />
     <SUITE FILE_PATH="coverage/python$problem_C.coverage" NAME="problem_C Coverage Results" MODIFIED="1566822677115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chowagiken" />
     <SUITE FILE_PATH="coverage/python$Heapify.coverage" NAME="Heapify Coverage Results" MODIFIED="1563185396247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structures" />
@@ -96,60 +324,80 @@
     <SUITE FILE_PATH="coverage/python$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1566567523227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorting_algorithms" />
     <SUITE FILE_PATH="coverage/python$heap_sort.coverage" NAME="heap_sort Coverage Results" MODIFIED="1566512341869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-592689814">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="58" />
+          <entry key="project.closed" value="67" />
           <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.1" value="7" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="3" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="2" />
           <entry key="project.open.time.28" value="7" />
           <entry key="project.open.time.29" value="3" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.30" value="2" />
-          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.31" value="2" />
           <entry key="project.open.time.32" value="3" />
           <entry key="project.open.time.33" value="3" />
-          <entry key="project.open.time.34" value="2" />
+          <entry key="project.open.time.34" value="3" />
           <entry key="project.open.time.35" value="3" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.37" value="4" />
+          <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.48" value="1" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="60" />
+          <entry key="project.opened" value="69" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="csv" value="1" />
           <entry key="ipynb" value="16" />
           <entry key="jpg" value="1" />
           <entry key="md" value="8" />
-          <entry key="py" value="117" />
+          <entry key="py" value="125" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CSV" value="1" />
           <entry key="IPNB" value="16" />
           <entry key="Image" value="1" />
           <entry key="Markdown" value="8" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="117" />
+          <entry key="Python" value="125" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -157,109 +405,26 @@
           <entry key="Python Console" value="48" />
           <entry key="dummy" value="42" />
           <entry key="md" value="647" />
-          <entry key="py" value="27023" />
-          <entry key="txt" value="1155" />
+          <entry key="py" value="29978" />
+          <entry key="txt" value="1189" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="647" />
-          <entry key="PLAIN_TEXT" value="1197" />
-          <entry key="Python" value="27071" />
+          <entry key="PLAIN_TEXT" value="1231" />
+          <entry key="Python" value="30026" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_programs/check_prime.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_programs/factor.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_programs/factorial.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_programs/find_all_permutaions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_programs/finding_lcm_gcd.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oop_in_python/Employee.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-              <folding>
-                <marker date="1569723357600" expanded="true" signature="94:99" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oop_in_python/self_keyword.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <marker date="1569733508555" expanded="true" signature="649:654" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hacker_rank_python/nested_lists.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hacker_rank_python/finding_the_percentage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/built_in_functions/ordered_dict.py">
+        <entry file="file://$PROJECT_DIR$/hacker_rank_python/transpose_and_flatten.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-270">
-              <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+            <state relative-caret-position="150">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -275,8 +440,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>binstr</find>
-      <find>qsort</find>
       <find>sets</find>
       <find>i</find>
       <find>j</find>
@@ -305,10 +468,10 @@
       <find>array</find>
       <find>arr</find>
       <find>r</find>
+      <find>input</find>
+      <find>dict</find>
     </findStrings>
     <replaceStrings>
-      <replace>binary_string</replace>
-      <replace>mt_quick_sort</replace>
       <replace>y</replace>
       <replace>left_thread</replace>
       <replace>right_thread</replace>
@@ -337,6 +500,8 @@
       <replace>arr</replace>
       <replace>mylist</replace>
       <replace>grade</replace>
+      <replace>input_data</replace>
+      <replace>dic</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -345,14 +510,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/basic_programs/check_prime.py" />
-        <option value="$PROJECT_DIR$/basic_programs/prime_number_for_a_given_interval.py" />
-        <option value="$PROJECT_DIR$/basic_programs/remove_duplicates_from_string.py" />
-        <option value="$PROJECT_DIR$/basic_programs/remove_duplicates_from_word.py" />
-        <option value="$PROJECT_DIR$/algorithms/heap_sort.py" />
-        <option value="$PROJECT_DIR$/algorithms/bubble_sort.py" />
-        <option value="$PROJECT_DIR$/hacker_rank_problem_solving/ArraysDS.py" />
-        <option value="$PROJECT_DIR$/sorting_algorithms/heap_sort.py" />
         <option value="$PROJECT_DIR$/sorting_algorithms/quick_sort.py" />
         <option value="$PROJECT_DIR$/algorithms/insertion_sort.py" />
         <option value="$PROJECT_DIR$/algorithms/insertion_sort_break_down.py" />
@@ -396,6 +553,14 @@
         <option value="$PROJECT_DIR$/hacker_rank_python/nested_lists.py" />
         <option value="$PROJECT_DIR$/hacker_rank_python/finding_the_percentage.py" />
         <option value="$PROJECT_DIR$/built_in_functions/ordered_dict.py" />
+        <option value="$PROJECT_DIR$/built_in_functions/length_encoding.py" />
+        <option value="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pandas_to_numpy.py" />
+        <option value="$PROJECT_DIR$/opencv/reading_image_rgb_matplotlib.py" />
+        <option value="$PROJECT_DIR$/ml/model.py" />
+        <option value="$PROJECT_DIR$/hacker_rank_python/the_minion_game.py" />
+        <option value="$PROJECT_DIR$/hacker_rank_python/arrays.py" />
+        <option value="$PROJECT_DIR$/hacker_rank_python/shape_and_reshape.py" />
+        <option value="$PROJECT_DIR$/hacker_rank_python/transpose_and_flatten.py" />
       </list>
     </option>
   </component>
@@ -406,10 +571,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-27" />
-    <option name="y" value="46" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="x" value="1212" />
+    <option name="y" value="-50" />
+    <option name="width" value="1936" />
+    <option name="height" value="1020" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -427,7 +592,7 @@
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="built_in_functions" type="462c0819:PsiDirectoryNode" />
+              <item name="hacker_rank_python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -437,13 +602,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/cnn-digit-recognition-tensorflow" />
+    <property name="last_opened_file_path" value="$USER_HOME$/machine_learning_projects/deploying_ml_model_flask" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sadma\python\opencv" />
       <recent name="C:\Users\sadma\python\chowagiken" />
     </key>
   </component>
@@ -459,52 +625,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ordered_dict">
-    <configuration name="Employee" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop_in_python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop_in_python/Employee.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="check_prime" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_programs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_programs/check_prime.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="finding_the_percentage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.transpose_and_flatten">
+    <configuration name="arrays" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -517,7 +639,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hacker_rank_python/finding_the_percentage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hacker_rank_python/arrays.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -526,7 +648,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ordered_dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pandas_to_numpy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -534,12 +656,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/built_in_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/built_in_functions/ordered_dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pandas_to_numpy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -548,7 +670,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="self_keyword" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="shape_and_reshape" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -556,12 +678,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop_in_python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hacker_rank_python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop_in_python/self_keyword.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hacker_rank_python/shape_and_reshape.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="the_minion_game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hacker_rank_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hacker_rank_python/the_minion_game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="transpose_and_flatten" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hacker_rank_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hacker_rank_python/transpose_and_flatten.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -571,19 +737,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.check_prime" />
-      <item itemvalue="Python.Employee" />
-      <item itemvalue="Python.self_keyword" />
-      <item itemvalue="Python.finding_the_percentage" />
-      <item itemvalue="Python.ordered_dict" />
+      <item itemvalue="Python.pandas_to_numpy" />
+      <item itemvalue="Python.the_minion_game" />
+      <item itemvalue="Python.arrays" />
+      <item itemvalue="Python.shape_and_reshape" />
+      <item itemvalue="Python.transpose_and_flatten" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ordered_dict" />
-        <item itemvalue="Python.finding_the_percentage" />
-        <item itemvalue="Python.self_keyword" />
-        <item itemvalue="Python.Employee" />
-        <item itemvalue="Python.check_prime" />
+        <item itemvalue="Python.transpose_and_flatten" />
+        <item itemvalue="Python.shape_and_reshape" />
+        <item itemvalue="Python.arrays" />
+        <item itemvalue="Python.the_minion_game" />
+        <item itemvalue="Python.pandas_to_numpy" />
       </list>
     </recent_temporary>
   </component>
@@ -597,13 +763,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561564557483</updated>
-    </task>
-    <task id="LOCAL-00026" summary="stack implementation using array">
-      <created>1566321602002</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1566321602002</updated>
     </task>
     <task id="LOCAL-00027" summary="tower of hanoi recursion">
       <created>1566324696282</created>
@@ -941,35 +1100,41 @@
       <option name="project" value="LOCAL" />
       <updated>1569732713962</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="unordered and ordered dictionary">
+      <created>1570789131534</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1570789131534</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
+    <frame x="1358" y="-208" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16187595" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.114072494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4923077" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32923076" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32923076" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.37538463" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.3991684" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32923076" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32923076" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.25363827" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Mongo Explorer" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
+      <window_info anchor="right" x="1388" y="213" width="1876" height="254" id="Run" order="6" visible="true" weight="0.38059703" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.108169444" />
@@ -1003,7 +1168,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="bubble sort" />
     <MESSAGE value="quick sort updated" />
     <MESSAGE value="md update" />
     <MESSAGE value="instance variables" />
@@ -1028,30 +1192,10 @@
     <MESSAGE value="markdown update" />
     <MESSAGE value="update" />
     <MESSAGE value="creating objects of classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating objects of classes" />
+    <MESSAGE value="unordered and ordered dictionary" />
+    <option name="LAST_COMMIT_MESSAGE" value="unordered and ordered dictionary" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hacker_rank_problem_solving/ArraysDS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="30" lean-forward="true" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chowagiken/problem_A_pair.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/PIL/Image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1119">
-          <caret line="418" selection-start-line="418" selection-end-line="418" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chowagiken/probA.py" />
-    <entry file="file://$PROJECT_DIR$/chowagiken/tryA.py" />
-    <entry file="file://$PROJECT_DIR$/chowagiken/tryC.py" />
-    <entry file="file://$PROJECT_DIR$/chowagiken/message.jpg" />
-    <entry file="file://$PROJECT_DIR$/chowagiken/problem_C.py" />
-    <entry file="file://$PROJECT_DIR$/chowagiken/requirements.txt" />
     <entry file="file://$PROJECT_DIR$/chowagiken/try2.py" />
     <entry file="file://$PROJECT_DIR$/chowagiken/problem_D_revited.py" />
     <entry file="file://$PROJECT_DIR$/chowagiken/problem_C.ipynb" />
@@ -1242,9 +1386,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-          <folding>
-            <marker date="1569723357600" expanded="true" signature="94:99" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1252,9 +1393,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <marker date="1569733508555" expanded="true" signature="649:654" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1274,8 +1412,78 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/built_in_functions/ordered_dict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
-          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        <state relative-caret-position="644">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/cast.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/built_in_functions/length_encoding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/pythondsp-pandasguide-1b04b7c96d95/pandas_to_numpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/reading_image_rgb_matplotlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="61" column="36" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <marker date="1573742388147" expanded="true" signature="120:125" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hacker_rank_python/the_minion_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <marker date="1573988757227" expanded="true" signature="24:396" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hacker_rank_python/arrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <marker date="1573989764019" expanded="true" signature="225:263" ph="..." />
+            <marker date="1573989764019" expanded="true" signature="260:261" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hacker_rank_python/shape_and_reshape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hacker_rank_python/transpose_and_flatten.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
