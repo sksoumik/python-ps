@@ -78,6 +78,17 @@ data structure, algorithm, statistics, OOP, hackerrank problems using python3
 ---
 | NumPy| 
 | ------------- | 
+|[Using Map with Panda DataFrame](https://github.com/sksoumik/python-ps/blob/master/pandas/apply_map.ipynb)|
+|[Encoding Continuous Values](https://github.com/sksoumik/python-ps/blob/master/pandas/categorical_values.ipynb)|
+|[Basics of Panda DataFrame](https://github.com/sksoumik/python-ps/blob/master/pandas/data_frame.ipynb)|
+|[Data Operations](https://github.com/sksoumik/python-ps/blob/master/pandas/data_operations.ipynb)|
+|[Shuffling and Grouping dataset](https://github.com/sksoumik/python-ps/blob/master/pandas/group_sort_shuffle.ipynb)|
+|[Reading files from disk](https://github.com/sksoumik/python-ps/blob/master/pandas/reading_files.ipynb)|
+
+---
+
+| Panda DataFrame| 
+| ------------- | 
 |[numpy basics](https://github.com/sksoumik/python-ps/blob/master/numpy/numpy_basics.ipynb)|
 |[slicing array](https://github.com/sksoumik/python-ps/blob/master/numpy/slicing.ipynb)|
 
