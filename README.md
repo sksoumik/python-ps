@@ -76,7 +76,7 @@ data structure, algorithm, statistics, OOP, hackerrank problems using python3
 |[reversing an array in 4 different ways in python](https://github.com/sksoumik/python-ps/blob/master/basic_programs/reversing_a_list.py)|
 
 ---
-| NumPy| 
+| Panda DataFrame| 
 | ------------- | 
 |[Using Map with Panda DataFrame](https://github.com/sksoumik/python-ps/blob/master/pandas/apply_map.ipynb)|
 |[Encoding Continuous Values](https://github.com/sksoumik/python-ps/blob/master/pandas/categorical_values.ipynb)|
@@ -87,7 +87,7 @@ data structure, algorithm, statistics, OOP, hackerrank problems using python3
 
 ---
 
-| Panda DataFrame| 
+| Numpy | 
 | ------------- | 
 |[numpy basics](https://github.com/sksoumik/python-ps/blob/master/numpy/numpy_basics.ipynb)|
 |[slicing array](https://github.com/sksoumik/python-ps/blob/master/numpy/slicing.ipynb)|
