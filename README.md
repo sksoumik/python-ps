@@ -1,6 +1,7 @@
 # python-ps
-data structure, algorithm, statistics, OOP, hackerrank problems using python3
-
+##### basics of data structure, algorithm, statistics, OOP, hackerrank problems, NumPy, OpenCV, Panda DataFrame using python3
+---
+![alt text](https://github.com/sksoumik/python-ps/blob/master/github-python-ps.jpg)
 
 | Data Structures  | 
 | ------------- | 
