@@ -22,7 +22,6 @@ def isPalindrome(string):
 # driver code
 sample = input("Please enter your own String : ")
 isPalindrome(sample)
-
 """
 Procedure 02
 
