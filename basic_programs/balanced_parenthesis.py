@@ -1,5 +1,6 @@
 import sys
 
+
 def isBalanced(s):
     stack = []
 

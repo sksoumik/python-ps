@@ -2,8 +2,19 @@
 A Python program that computes a grade-point average (GPA).
 """
 
-points = {"A": 4.0, "A-": 3.67, 'B+': 3.33, 'B': 3.0, 'B-': 2.67,
-          'C+': 2.33, 'C': 2.0, 'C-': 1.67, 'D+': 1.33, 'D': 1.0, 'F': 0.0}
+points = {
+    "A": 4.0,
+    "A-": 3.67,
+    'B+': 3.33,
+    'B': 3.0,
+    'B-': 2.67,
+    'C+': 2.33,
+    'C': 2.0,
+    'C-': 1.67,
+    'D+': 1.33,
+    'D': 1.0,
+    'F': 0.0
+}
 
 num_course = 0
 total_point = 0

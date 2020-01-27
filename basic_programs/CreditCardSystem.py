@@ -3,7 +3,7 @@ class CreditCard:
         self._customer = customer
         self._account = account
         self._bank = bank
-        self._acnt = acnt # account identifier
+        self._acnt = acnt  # account identifier
         self._limit = limit
         self._balance = 0
 
@@ -18,5 +18,3 @@ class CreditCard:
 
     def get_limit(self):
         return self._limit
-
-
