@@ -20,4 +20,3 @@ class SomeClass:
         # instance_var1 is a instance variable
         self.instance_var2 = param2
         # instance_var2 is a instance variable
-

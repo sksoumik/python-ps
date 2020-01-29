@@ -3,15 +3,15 @@ class Employee:
         self.first_name = first_name
         self.last_name = last_name
         self.payment = payment
-        self.email = first_name.lower() + '.' + last_name.lower() + '@email.com'
+        self.email = first_name.lower() + '.' + last_name.lower(
+        ) + '@email.com'
 
     def full_name(self):
         print(self.first_name + ' ' + self.last_name)
 
     def employee_info(self):
-        print("Name:" + self.first_name + ' ' + self.last_name +
-              "\nEmail: " + self.email +
-              "\nPayment: " + str(self.payment))
+        print("Name:" + self.first_name + ' ' + self.last_name + "\nEmail: " +
+              self.email + "\nPayment: " + str(self.payment))
 
 
 emp1 = Employee('Sadman', 'Soumik', 50000)
