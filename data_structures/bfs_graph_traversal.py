@@ -5,7 +5,6 @@ from collections import defaultdict
 
 
 class Graph:
-
     def __init__(self):
         self.graph = defaultdict(list)
 
@@ -14,7 +13,8 @@ class Graph:
 
     def bfs(self, s):  # s = source
         # mark all the vertices as not visited
-        visited = [False] * len(self.graph)  # a list containing all elements as False
+        visited = [False] * len(
+            self.graph)  # a list containing all elements as False
         # create a queue for bfs
         queue = []
         # mark the source vertex as visited and enqueue it
@@ -25,7 +25,6 @@ class Graph:
             # dequeue a vertex from the queue and print it
             s = queue.pop(0)
             print(s, end=" ")
-
             """ Get all adjacent vertices of the 
             dequeued vertex s. If a adjacent 
             has not been visited, then mark it 
@@ -49,8 +48,6 @@ g.add_edge(3, 3)
 
 print("BFS traversal is: ")
 g.bfs(2)
-
-
 """
 ref: https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
 """

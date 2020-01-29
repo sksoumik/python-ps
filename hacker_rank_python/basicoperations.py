@@ -29,4 +29,3 @@ print(s.find('g'))  # returns the position of g
 print(s.split(' '))
 print(s.upper())
 print(s.replace('python', 'java'))
-
