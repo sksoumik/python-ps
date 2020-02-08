@@ -11,4 +11,4 @@ for i in combinations(l, k):
         contain += 1
     total += 1
 
-print(float(contain/total))
+print(float(contain / total))

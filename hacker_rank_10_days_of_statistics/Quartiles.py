@@ -8,14 +8,15 @@ X = [int(i) for i in input().strip().split(' ')]
 
 def median(arr):
     arr.sort()
-    if len(arr) % 2 == 1: # odd
-        return arr[int((len(arr)-1)/2)]
-    else: # even
-        return 0.5*(arr[int((len(arr)/2-1))]+ arr[int(len(arr)/2)])
+    if len(arr) % 2 == 1:  # odd
+        return arr[int((len(arr) - 1) / 2)]
+    else:  # even
+        return 0.5 * (arr[int((len(arr) / 2 - 1))] + arr[int(len(arr) / 2)])
+
 
 Q2 = median(X)
-left_arr = [int(i) for i in X if i<Q2]
-right_arr = [int(i) for i in X if i>Q2]
+left_arr = [int(i) for i in X if i < Q2]
+right_arr = [int(i) for i in X if i > Q2]
 Q1 = median(left_arr)
 Q3 = median(right_arr)
 

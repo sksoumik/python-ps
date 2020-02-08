@@ -12,8 +12,8 @@ n = 6
 R = []
 for x in range(3, 7):
     c1 = math.factorial(n) / (math.factorial(x) * (math.factorial(n - x)))
-    c2 = p ** x
-    c3 = q ** (n - x)
+    c2 = p**x
+    c3 = q**(n - x)
     res = c1 * c2 * c3
     R.append(res)
 

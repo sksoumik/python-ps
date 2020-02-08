@@ -66,7 +66,6 @@ pre_order_traversal(root)
 
 print("\nPost order Traversal")
 post_order_traversal(root)
-
 """
 Ref: https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/
 """

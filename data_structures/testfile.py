@@ -2,4 +2,4 @@
 #     print(i+1,x)
 
 for i, x in enumerate("soumik"):
-    print(i+1,x)
+    print(i + 1, x)

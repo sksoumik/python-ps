@@ -18,7 +18,7 @@ class LinkedList:
     def __init__(self):  # initialize head
         self.head = None
 
-    def reverse_linked_list(self):   # previous, current, next
+    def reverse_linked_list(self):  # previous, current, next
         previous = None
         current = self.head
 
@@ -55,7 +55,6 @@ linked_list.print_linked_list()
 linked_list.reverse_linked_list()
 print("\nAfter reversing the linked list")
 linked_list.print_linked_list()
-
 """
 Time complexity: O(n), reverse_linked_list()
 """

@@ -4,6 +4,7 @@ A NumPy array is a grid of values. They are similar to lists, except that every 
 """
 import numpy as np
 
+
 def arrays(arr):
     arr = np.array(arr)
     return arr[::-1].astype(float)

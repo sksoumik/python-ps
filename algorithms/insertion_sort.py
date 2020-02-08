@@ -8,19 +8,19 @@ Time Complexity of selection sort is 'always' n^2, whereas insertion sort has be
 complexity as its worst case complexity is n^2. Generally it will take lesser or equal
 comparisons then n^2.
 """
+
+
 def insertion(M):
-    for i in range(1,len(M)):
+    for i in range(1, len(M)):
         for j in range(i):
             if M[i] < M[j]:
-                M[j],M[j+1:i+1] = M[i],M[j:i]
+                M[j], M[j + 1:i + 1] = M[i], M[j:i]
                 break
 
 
-
-array = [5,8,9,6,7,10]
+array = [5, 8, 9, 6, 7, 10]
 insertion(array)
 n = len(array)
 
 for i in range(n):
     print(array[i], end=" ")
-

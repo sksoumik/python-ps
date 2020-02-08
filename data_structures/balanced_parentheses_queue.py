@@ -22,7 +22,6 @@ def check(expression):
 # Driver code
 string = input()
 print(string, '-', check(string))
-
 """
 Ref: https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-python/
 """

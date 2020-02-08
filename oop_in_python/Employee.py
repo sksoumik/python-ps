@@ -1,4 +1,3 @@
-
 class Employee:
     # init acts like a constructor, it invokes whenever an object is created.
     def __init__(self, name, age, id, salary):

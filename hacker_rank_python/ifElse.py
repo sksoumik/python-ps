@@ -4,7 +4,6 @@ https://www.hackerrank.com/challenges/py-if-else/problem
 
 import sys
 
-
 N = int(input().strip())
 
 if N % 2 == 0:

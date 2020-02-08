@@ -42,7 +42,6 @@ push(stack, 30)
 pop(stack)  # removed 30
 print(stack)
 print(peek(stack))  # 20
-
 """
 ref: https://www.geeksforgeeks.org/stack-data-structure-introduction-program/
 """
