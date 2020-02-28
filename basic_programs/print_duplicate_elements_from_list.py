@@ -1,3 +1,7 @@
+"""
+Print duplicate elements from a list/array 
+"""
+
 def find_duplicates(ar):
     duplicates = []
     for i in range(0, len(ar)):
