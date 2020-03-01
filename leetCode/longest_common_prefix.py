@@ -7,8 +7,8 @@ amongst an array of strings.
 
 
 class Solution:
-     
-    # find the common string between two strings 
+
+    # find the common string between two strings
     def common_prefix_utils(self, str1, str2):
         result = ""
         i = j = 0
@@ -18,8 +18,7 @@ class Solution:
             result += str1[i]
             i += 1
             j += 1
-        return result 
-
+        return result
 
     def longestCommonPrefix(self, strs):
         prefix = strs[0]
@@ -29,6 +28,5 @@ class Solution:
 
 
 obj = Solution()
-inputa_arry = ["dog","racecar","car"]
+inputa_arry = ["dog", "racecar", "car"]
 print(obj.longestCommonPrefix(inputa_arry))
-
