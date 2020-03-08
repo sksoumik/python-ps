@@ -16,3 +16,15 @@ Output: [
 
 """
 
+class Solution:
+    def solveNQueens(self, n):
+        pass
+
+
+
+
+if __name__ == "__main__":
+    obj = Solution()
+
+
+
