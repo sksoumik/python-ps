@@ -116,4 +116,32 @@
 |[mutation](https://github.com/sksoumik/python-ps/blob/master/hacker_rank_python/mutations.py)|[problem link](https://www.hackerrank.com/challenges/python-mutations)|
 |[nested list](https://github.com/sksoumik/python-ps/blob/master/hacker_rank_python/nested_lists.py)|[problem link](https://www.hackerrank.com/challenges/nested-list/problem?h_r=next-challenge&h_v=zen)|
 
+--- 
+#### LeetCode Problem Solving 
+| Name and Solution  | Problem Link | 
+| -------------      | ------------------|
+
+|[Two Sum](https://github.com/sksoumik/python-ps/blob/master/leetCode/two_sum.py) | [problem link](https://leetcode.com/problems/two-sum/)|
+
+|[Valid Anagram](https://github.com/sksoumik/python-ps/blob/master/leetCode/ValidAnagram.py) | [problem link](https://leetcode.com/problems/valid-anagram/) |
+
+|[Robot Return to Origin](https://github.com/sksoumik/python-ps/blob/master/leetCode/robot_return_to_origin.py) | [problem link](https://leetcode.com/problems/robot-return-to-origin) |
+
+|[Reverse Integer](https://github.com/sksoumik/python-ps/blob/master/leetCode/reverse_integer.py) | [problem link](https://leetcode.com/problems/reverse-integer/) |
+
+|[Two Sum II - Input array is sorted](https://github.com/sksoumik/python-ps/blob/master/leetCode/two_sum_two.py) | [problem link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+
+|[Median of Two Sorted Arrays](https://github.com/sksoumik/python-ps/blob/master/leetCode/median_of_two_list.py) | [problem link](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/) |
+
+|[Longest Substring Without Repeating Characters](https://github.com/sksoumik/python-ps/blob/master/leetCode/longest_substring_without_repeating_characters.py) | [problem link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+
+|[Longest Common Prefix](https://github.com/sksoumik/python-ps/blob/master/leetCode/longest_common_prefix.py) | [problem link](https://leetcode.com/problems/longest-common-prefix/) |
+
+|[Search Insert Position](https://github.com/sksoumik/python-ps/blob/master/leetCode/search_insert_position.py) | [problem link](https://leetcode.com/problems/search-insert-position/) |
+
+|[Print in Order](https://github.com/sksoumik/python-ps/blob/master/leetCode/palindrome_number.py) | [problem link](https://leetcode.com/problems/print-in-order/) |
+
+|[Palindrome Number](https://github.com/sksoumik/python-ps/blob/master/leetCode/palindrome_number.py) | [problem link]() |
+
+
 
