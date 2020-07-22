@@ -5,6 +5,7 @@ reads the same backward as forward.
 
 """
 
+
 class Solution:
     def isPalindrome(self, x):
         int_to_str = str(x)
@@ -18,4 +19,4 @@ class Solution:
 if __name__ == "__main__":
     obj = Solution()
     res = obj.isPalindrome(121)
-    print(res) 
+    print(res)
