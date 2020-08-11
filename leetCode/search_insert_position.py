@@ -19,10 +19,19 @@ class Solution:
                     return index
             return len(nums)
 
+    # solution 2 
+    def solution_2(self, nums, target):
+        nums.append(target)
+        nums.sort()
+
+        for idx, number in enumerate(nums):
+            if number == target:
+                return idx
+
 
 if __name__ == "__main__":
     obj = Solution()
     nums = [1, 3, 5, 6]
-    target = 7
-    res = obj.searchInsert(nums, target)
+    target = 5
+    res = obj.solution_2(nums, target)
     print(res)
