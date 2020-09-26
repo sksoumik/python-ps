@@ -2,16 +2,16 @@
 problem url: 
 https://www.hackerrank.com/challenges/sock-merchant
 
-''' 
-from collections import Counter 
+'''
+from collections import Counter
+
 
 def sockMerchant(n, ar):
     ans = 0
     c = Counter(ar)
     for i in c:
-        ans += c[i]//2
-    return ans 
-
+        ans += c[i] // 2
+    return ans
 
 
 if __name__ == "__main__":
