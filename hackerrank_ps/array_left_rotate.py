@@ -9,4 +9,4 @@ if __name__ == "__main__":
     n, d = map(int, input().strip().split(" "))
     a = map(int, input().strip().split(" "))
     left_rotated_array = rotLeft(a, d)
-    print(*left_rotated_array, sep=" ")
+    print(*left_rotated_array, sep=" ")?

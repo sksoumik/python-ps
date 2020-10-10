@@ -1,4 +1,5 @@
-"""problem statement
+"""
+problem statement
 https://leetcode.com/problems/implement-strstr/
 Implement strStr().
 
